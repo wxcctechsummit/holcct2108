@@ -35,7 +35,7 @@ We will also be creating two new reports (one for Call and one for agent) to cap
 
 
 
-# Execute Stock Report and use it to create custom reports
+# Exercise 2.1 - Execute Stock Reports
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zR2ryZ7x9kA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -49,7 +49,7 @@ We will also be creating two new reports (one for Call and one for agent) to cap
 1. Go to `Home --> Visualization`
 2. Click on `Create New`  and select `Folder` to create a new folder with your name
 3. Click on ` Stock Reports -> Historical -> Reports -> Agent Reports`
-4. Take cursor on top of `Agent Details` report, click 3 dots and click `Create a Copy`
+4. Take cursor on top of `Agent Details` report, click 3 dots and click `Create a Copy` [Direct Link](https://www.youtube.com/embed/zR2ryZ7x9kA?start=50)
 5. Click `Save As..` , select the Folder you created previously, change the Report name to something custom to your self (For example KT_Agent Details) and click `OK`
 6. Not close this report by clicking x on right upper side.
 7. Go back to your Folder under `Home ->  Visualization` and Double click (or click on 3 dots and click `Run`) on your newly added report to run it.
