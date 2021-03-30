@@ -1,5 +1,5 @@
 ---
-title: "Exercise 1: Intro and UI"
+title: "Exercise 1: Intro and User Interface"
 ---
 
 # Webex Contact Center Reporting - Analyzer
