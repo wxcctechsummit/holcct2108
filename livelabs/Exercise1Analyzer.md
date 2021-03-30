@@ -1,5 +1,5 @@
 ---
-title: "Exercise 1: Intro and User Interface"
+title: "Exercise 1: Administrator Dashboard and User Interface"
 ---
 
 # Webex Contact Center Reporting - Analyzer
@@ -33,11 +33,11 @@ We will also be creating two new reports (one for Call and one for agent) to cap
 3. Make sure to make few test calls and answered by the agent the day you attempting this lab (to ensure we have some data to analyze)
 
 
-# 1. Login into Analyzer and review user interface
+# Exercise 1.1. Login into Analyzer and review dashboard reports
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E4Ch2gUSRi4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
-
+## <- Details need to be changed 
 **Section Information**
 - Login Into Analyzer 
 - Four Repositories
@@ -59,9 +59,9 @@ We will also be creating two new reports (one for Call and one for agent) to cap
 
 
 
+# Exercise 1.2 Analyzer User Interface
 
-
-# 3. Create an Agent Historical Call Visualization 
+# Exercise 1.3 Access Control
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xKoAPtAtXzo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
