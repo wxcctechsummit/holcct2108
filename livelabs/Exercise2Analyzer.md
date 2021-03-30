@@ -18,7 +18,7 @@ title: "Exercise 2: Stock Reports"
 * [Analyzer](https://analyzer.wxcc-us1.cisco.com/analyzer/home)
 
 # Introduction
-<iframe width="560" height="315" src="https://www.youtube.com/embed/453BlLMFetU#t=32s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/453BlLMFetU?start=32" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 ## Lab Objective
 
