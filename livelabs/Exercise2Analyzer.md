@@ -17,7 +17,7 @@ title: "Exercise 2: Stock Reports"
 * [Portal](https://portal.wxcc-us1.cisco.com/portal)
 * [Analyzer](https://analyzer.wxcc-us1.cisco.com/analyzer/home)
 
-# Introduction
+# Introduction  <below link will start a specified time for example until we code correctly>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/453BlLMFetU?start=32" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 ## Lab Objective
