@@ -5,7 +5,7 @@ title: "Cisco Live Webex Contact Center Analyzer Lab Information"
   <img src="https://ayankovs-ccp-s3.s3.eu-west-3.amazonaws.com/CiscoLiveLogo.jpg">
 </p>
 
-![Banner](images/wxccbanner.jpg)
+![Banner](../images/wxccbanner.jpg)
 
 Welcome to Cisco Live 2021 HOLCCT-2108 New Webex Contact Center Analyzer - Data and Analytics Deep Dive.
 
