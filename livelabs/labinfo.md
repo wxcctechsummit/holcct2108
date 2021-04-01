@@ -7,7 +7,7 @@ title: "Cisco Live Webex Contact Center Analyzer Lab Information"
 
 ![Banner](../images/wxccbanner.jpg)
 
-Welcome to Cisco Live 2021 HOLCCT-2108 New Webex Contact Center Analyzer - Data and Analytics Deep Dive.
+**Welcome to Cisco Live 2021 HOLCCT-2108 New Webex Contact Center Analyzer - Data and Analytics Deep Dive.**
 
 # Webex Contact Center Reporting - Analyzer
 
@@ -16,6 +16,7 @@ Inbound Voice: 	+15084337864
 
 ## Multimedia information
 * [Facebook Demo](https://www.facebook.com/Wxcc-Demo-Page-107841834739318)
+
 Email: 	wxccanalyzer@gmail.com
 Inbound SMS: 	+12029824690
 
