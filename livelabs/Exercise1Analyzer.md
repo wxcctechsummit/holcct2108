@@ -1,11 +1,10 @@
-# Session Title <br>
--> Exercise 1: Administrator Dashboard and User Interface <-
 
 <p align="center">
   <img src="https://ayankovs-ccp-s3.s3.eu-west-3.amazonaws.com/CiscoLiveLogo.jpg">
 </p>
 
-# Cisco Live HOLCCT-2108 Webex Contact Center Reporting - Analyzer Deep Dive
+# Cisco Live HOLCCT-2108 Webex Contact Center Reporting - Analyzer Deep Dive <br>
+## Exercises 1.1 to 1.3
 
 # Table of Contents
 1. Exercise 1.1: Dashboard reports
