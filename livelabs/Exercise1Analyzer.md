@@ -1,6 +1,6 @@
----
-title: "Exercise 1: Administrator Dashboard and User Interface"
----
+-># Session Title<-
+Exercise 1: Administrator Dashboard and User Interface
+
 <p align="center">
   <img src="https://ayankovs-ccp-s3.s3.eu-west-3.amazonaws.com/CiscoLiveLogo.jpg">
 </p>
