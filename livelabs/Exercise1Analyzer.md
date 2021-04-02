@@ -41,14 +41,17 @@ We will also be creating two new reports (one for Call and one for agent) to cap
 **Section Information**
 - Login into the WxCC portal using the Portal link above.
 - Login using your provided student email and password.  Emails for this lab are always **cladmXuser@mailinator.com** where **X** is your student number.
-- The initial dashboard includes several Realtime reports showing current contact information in the system.
+- The initial dashboard includes several Realtime & Historical reports showing current contact information in the system.
 - Navigate (shown in the video) through the various dashboard reports and the dropdown allowing you to see current information to familiarize yourself with these stock reports.
 - Video Checkpoints
-* [Entry Point Site Level Dashboard](https://www.youtube.com/embed/E4Ch2gUSRi4?start=63"){:target="_blank"}
-* 
-<a href="https://www.youtube.com/embed/E4Ch2gUSRi4?start=63" target="_blank">Entry Point Site Level Dashboard</a>
-                                                                                            
-- Search Folder & Visualization
+1.  <a href="https://www.youtube.com/embed/E4Ch2gUSRi4?start=63" target="_blank">Entry Point Site Level Dashboard </a>
+2.  <a href="https://www.youtube.com/embed/E4Ch2gUSRi4?start=68" target="_blank">Contact Center Overview - Realtime Dashboard </a>
+3.  <a href="https://www.youtube.com/embed/E4Ch2gUSRi4?start=75" target="_blank">Contact Center Overview - Historical Dashboard </a>
+4.  <a href="https://www.youtube.com/embed/E4Ch2gUSRi4?start=85" target="_blank">Agent State Data - Realtime Dashboard </a>
+- Navigate back to the Entry Point Site Level Dashboard and complete some navigation exercises shown in the video
+- Cross-Launch from dashboard to a specific dashboard **Entry Point Historical Dashboard**
+- From the Cross-Launched dashboard - Cross-Launch into Analyzer to the specific table **Incomming, Short Contacts Entry Point**
+-   <a href="https://www.youtube.com/embed/E4Ch2gUSRi4?start=3:12" target="_blank">Analyzer Incomming, Short Contacts Entry Point </a>
 - List or Grid View
 - Visualization Summary information
 - Report Details information
