@@ -1,5 +1,5 @@
 ---
-title: "Lab Guide Library"
+title: "Cisco Live HOLCCT-2108 Lab Guide Library"
 ---
 <p align="center">
   <img src="https://ayankovs-ccp-s3.s3.eu-west-3.amazonaws.com/CiscoLiveLogo.jpg">
