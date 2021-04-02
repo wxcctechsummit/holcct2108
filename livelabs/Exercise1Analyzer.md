@@ -2,7 +2,7 @@
 title: "Exercise 1: Administrator Dashboard and User Interface"
 ---
 
-# Webex Contact Center Reporting - Analyzer
+# Cisco Live HOLCCT-2108 Webex Contact Center Reporting - Analyzer Deep Dive
 
 # Table of Contents
 
@@ -39,23 +39,17 @@ We will also be creating two new reports (one for Call and one for agent) to cap
 
 ## <- Details need to be changed 
 **Section Information**
-- Login Into Analyzer 
-- Four Repositories
-- Review Stock reports and Dashboard
+- Login into the WxCC portal using the Portal link above.
+- Login using your provided student email and password.  Emails for this lab are always **cladmXuser@mailinator.com** where **X** is your student number.
+- The initial dashboard includes several Realtime reports showing current contact information in the system.
+- Navigate (shown in the video) through the various dashboard reports and the dropdown allowing you to see current information to familiarize yourself with these stock reports.
+- Video Checkpoints
+* [Entry Point Site Level Dashboard](<iframe width="560" height="315" src="https://www.youtube.com/embed/E4Ch2gUSRi4?start=63" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
+
 - Search Folder & Visualization
 - List or Grid View
 - Visualization Summary information
 - Report Details information
-
-1. Click on the `Burger` sign next to `HOME`
-2. You can see 3 modules on the left pane : `Visualization , Dashboard and Variables`
-3. In the middle of the page you would notice 4 Repositories : `Total Agent Activity Records, Total Agent Session Records, Total Customer Activity Records and Total Customer Session Records`
-4. Click on More details on Total Customer Session Records: Make a note of `total` customer sessions records and `period`  those records were executed
-5. Click on `Visualization`: you will notice `Stock Reports` Folder , Click on `Stock reports --> Business Metrics`
-6. Click on `GRID` option on left upper side (under the user name), this will show you reports in GRID view 
-    Make a note of `Type, Temporal Scope, Last Modified , Created By and ID`
-7. Click on Search `Folder & Visualization` and enter `Agent realtime`
-    This is execute a global search and list the matching report
 
 
 
