@@ -45,7 +45,8 @@ We will also be creating two new reports (one for Call and one for agent) to cap
 - Navigate (shown in the video) through the various dashboard reports and the dropdown allowing you to see current information to familiarize yourself with these stock reports.
 - Video Checkpoints
 * [Entry Point Site Level Dashboard](https://www.youtube.com/embed/E4Ch2gUSRi4?start=63"){:target="_blank"}
-
+<a href="https://www.youtube.com/embed/E4Ch2gUSRi4?start=63"" target="_blank" rel="noopener"><span>Entry Point Site Level Dashboard</span> </a>
+                                                                                            
 - Search Folder & Visualization
 - List or Grid View
 - Visualization Summary information
