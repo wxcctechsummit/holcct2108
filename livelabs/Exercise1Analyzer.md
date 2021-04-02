@@ -32,8 +32,8 @@ We will also be creating two new reports (one for Call and one for agent) to cap
 # Exercise 1.1. Login into Analyzer and review dashboard reports
 
 <iframe width="560" height="315" src="https://youtube.com/embed/Q4kf8dHN8x8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-
-
+<br>
+<br>
 **Lab Section Information & Guide**
 1. `Login to the WxCC portal` using the Portal link above.
 2. Login using your provided student email and password.  Emails for this lab are always **cladmXuser@mailinator.com** where **X** is your student number.
