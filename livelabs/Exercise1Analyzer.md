@@ -31,7 +31,7 @@ We will also be creating two new reports (one for Call and one for agent) to cap
 
 # Exercise 1.1. Login into Analyzer and review dashboard reports
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E4Ch2gUSRi4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<iframe width="560" height="315" src="https://youtube.com/embed/Q4kf8dHN8x8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 **Lab Section Information & Guide**
 1. `Login to the WxCC portal` using the Portal link above.
@@ -39,15 +39,15 @@ We will also be creating two new reports (one for Call and one for agent) to cap
 3. The initial dashboard includes several `Realtime & Historical` reports showing current contact information in the system.
 4. Navigate (shown in the video) through the various dashboard reports and the dropdown allowing you to see current information to familiarize yourself with these stock reports.
 - Video Checkpoints
-> * <a href="https://www.youtube.com/embed/E4Ch2gUSRi4?start=63" target="_blank">Entry Point Site Level Dashboard </a>
-> * <a href="https://www.youtube.com/embed/E4Ch2gUSRi4?start=68" target="_blank">Contact Center Overview - Realtime Dashboard </a>
-> * <a href="https://www.youtube.com/embed/E4Ch2gUSRi4?start=75" target="_blank">Contact Center Overview - Historical Dashboard </a>
-> * <a href="https://www.youtube.com/embed/E4Ch2gUSRi4?start=85" target="_blank">Agent State Data - Realtime Dashboard </a>
+> * <a href="https://www.youtube.com/embed/Q4kf8dHN8x8?start=63" target="_blank">Entry Point Site Level Dashboard </a>
+> * <a href="https://www.youtube.com/embed/Q4kf8dHN8x8?start=68" target="_blank">Contact Center Overview - Realtime Dashboard </a>
+> * <a href="https://www.youtube.com/embed/Q4kf8dHN8x8?start=75" target="_blank">Contact Center Overview - Historical Dashboard </a>
+> * <a href="https://www.youtube.com/embed/Q4kf8dHN8x8?start=85" target="_blank">Agent State Data - Realtime Dashboard </a>
 
 5. `Navigate back to the Entry Point Site Level Dashboard` and complete some navigation exercises shown in the video
 6. `Cross-Launch` from dashboard to a specific dashboard **Entry Point Historical Dashboard**
-7. From the Cross-Launched dashboard - C`ross-Launch into Analyzer` to the specific table **Incomming, Short Contacts Entry Point** anf follow the instructions to set filters as desired.
-> * <a href="https://www.youtube.com/embed/E4Ch2gUSRi4?start=3:12" target="_blank">Analyzer Incomming, Short Contacts Entry Point </a>
+7. From the Cross-Launched dashboard - `Cross-Launch into Analyzer` to the specific table **Incomming, Short Contacts Entry Point** anf follow the instructions to set filters as desired.
+> * <a href="https://www.youtube.com/embed/Q4kf8dHN8x8?start=3:12" target="_blank">Analyzer Incomming, Short Contacts Entry Point </a>
 8. End of Exercise 1.1
 
 # Exercise 1.2 Analyzer User Interface
