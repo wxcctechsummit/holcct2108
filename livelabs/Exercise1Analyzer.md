@@ -44,15 +44,15 @@ We will also be creating two new reports (one for Call and one for agent) to cap
 3. The initial dashboard includes several Realtime & Historical reports showing current contact information in the system.
 4. Navigate (shown in the video) through the various dashboard reports and the dropdown allowing you to see current information to familiarize yourself with these stock reports.
 - Video Checkpoints
-a.  <a href="https://www.youtube.com/embed/E4Ch2gUSRi4?start=63" target="_blank">Entry Point Site Level Dashboard </a>
-b.  <a href="https://www.youtube.com/embed/E4Ch2gUSRi4?start=68" target="_blank">Contact Center Overview - Realtime Dashboard </a>
-c.  <a href="https://www.youtube.com/embed/E4Ch2gUSRi4?start=75" target="_blank">Contact Center Overview - Historical Dashboard </a>
-d.  <a href="https://www.youtube.com/embed/E4Ch2gUSRi4?start=85" target="_blank">Agent State Data - Realtime Dashboard </a>
+> <a href="https://www.youtube.com/embed/E4Ch2gUSRi4?start=63" target="_blank">Entry Point Site Level Dashboard </a>
+> <a href="https://www.youtube.com/embed/E4Ch2gUSRi4?start=68" target="_blank">Contact Center Overview - Realtime Dashboard </a>
+> <a href="https://www.youtube.com/embed/E4Ch2gUSRi4?start=75" target="_blank">Contact Center Overview - Historical Dashboard </a>
+> <a href="https://www.youtube.com/embed/E4Ch2gUSRi4?start=85" target="_blank">Agent State Data - Realtime Dashboard </a>
 
 5. Navigate back to the Entry Point Site Level Dashboard and complete some navigation exercises shown in the video
 6. Cross-Launch from dashboard to a specific dashboard **Entry Point Historical Dashboard**
 7. From the Cross-Launched dashboard - Cross-Launch into Analyzer to the specific table **Incomming, Short Contacts Entry Point** anf follow the instructions to set filters as desired.
--   <a href="https://www.youtube.com/embed/E4Ch2gUSRi4?start=3:12" target="_blank">Analyzer Incomming, Short Contacts Entry Point </a>
+> <a href="https://www.youtube.com/embed/E4Ch2gUSRi4?start=3:12" target="_blank">Analyzer Incomming, Short Contacts Entry Point </a>
 8. End of video Guide
 
 # Exercise 1.2 Analyzer User Interface
