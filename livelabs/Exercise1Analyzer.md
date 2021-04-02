@@ -33,6 +33,7 @@ We will also be creating two new reports (one for Call and one for agent) to cap
 
 <iframe width="560" height="315" src="https://youtube.com/embed/Q4kf8dHN8x8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
+
 **Lab Section Information & Guide**
 1. `Login to the WxCC portal` using the Portal link above.
 2. Login using your provided student email and password.  Emails for this lab are always **cladmXuser@mailinator.com** where **X** is your student number.
@@ -47,8 +48,8 @@ We will also be creating two new reports (one for Call and one for agent) to cap
 5. `Navigate back to the Entry Point Site Level Dashboard` and complete some navigation exercises shown in the video
 6. `Cross-Launch` from dashboard to a specific dashboard **Entry Point Historical Dashboard**
 7. From the Cross-Launched dashboard - `Cross-Launch into Analyzer` to the specific table **Incomming, Short Contacts Entry Point** anf follow the instructions to set filters as desired.
-> * <a href="https://www.youtube.com/embed/Q4kf8dHN8x8?start=3:12" target="_blank">Analyzer Incomming, Short Contacts Entry Point </a>
-8. End of Exercise 1.1
+> * <a href="https://www.youtube.com/embed/Q4kf8dHN8x8?start=3:12" target="_blank">Analyzer Incomming, Short Contacts Entry Point </a> <br>
+8. This exercise completed
 
 # Exercise 1.2 Analyzer User Interface
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xKoAPtAtXzo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
