@@ -15,13 +15,52 @@ This intermediate level lab session is intended for Contact Center engineers and
 ## Analyzer Lab Configuration
 ![Banner](images/analyzerlabsetup.jpg)
 
-- `Voice calls` hit a common Entry Point and answers with a Flow enabled for Google CCAI.
-<li> Tell the auto attendant you want to speak to an agent
-- <li> Enter your Student Number.  The number matches the number in your login ID.
-- <li> Calls will route to your own queue so ensure your agent is logged in and your agent will get the call
-- `Omnichannel` contacts will all route to a common queue
-- <li> Help your classmates out by responding to their emails, texts, facebook and SMS queries.
+# Connecting Instructions
+## Inbound Voice
+**Dial +15084337864**
+* If international calling please use the US code
 
+ 1. `Voice calls` hit a common Entry Point and answers with a Flow enabled for Google CCAI.
+	* Tell the auto attendant you want to speak to an agent
+	* Enter your Student Number.  The number matches the number in your login ID.
+	* Calls will route to your own queue so ensure your agent is logged in and your agent will get the call
+2. `Omnichannel` contacts will all route to a common queue
+	* Help your classmates out by responding to their emails, texts, facebook and SMS queries.
+
+## Facebook Chats
+1. Use the following Link:  [Facebook](https://www.facebook.com/Wxcc-Demo-Page-107841834739318)
+
+## Email Assistance
+1. Use your email client and send to:  wxccanalyzer@gmail.com
+
+## Chat using WxCC Chat Widget
+1. Navigate to a Java Script editor like [JS.DO](https://js.do/)
+2. Insert the following code block into the Java Editor, on the left side
+```
+<script>
+    //Name of the Customer Support Template: CL2108lab_Chat
+    //Name of the Organisation: CL_HOLCCT2108
+      (function(document, script) {
+      var bubbleScript = document.createElement(script);
+      e = document.getElementsByTagName(script)[0];
+      bubbleScript.async = true;
+      bubbleScript.CiscoAppId =  'cisco-chat-bubble-app';
+      bubbleScript.appPrefix = '';
+      bubbleScript.DC = 'produs1.ciscoccservice.com';
+      bubbleScript.orgId = '85d74f70-1fd5-4744-91f2-042ea361ca03';
+      bubbleScript.templateId = '424807d0-91bf-11eb-96d7-e33c5a6b0997';
+      bubbleScript.src = 'https://bubble.produs1.ciscoccservice.com/bubble.js';
+      bubbleScript.type = 'text/javascript';
+      bubbleScript.setAttribute('charset', 'utf-8');
+      e.parentNode.insertBefore(bubbleScript, e);
+      })(document, 'script');
+    </script>
+```
+3. Once this is pasted, click the `Run Code` button at the top
+4. Look on the **Lower Right Side** for the `Chat Bubble` and click that to start a Chat session
+
+## Inbound SMS
+1. Text to +12029824690 
 ## Pre-requisite
 
 1. Recommended to review this before the Lab: Data and Analytics with New Webex Contact Center Analyzer - BRKCCT-1004
