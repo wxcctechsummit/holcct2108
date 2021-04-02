@@ -15,6 +15,13 @@ This intermediate level lab session is intended for Contact Center engineers and
 ## Analyzer Lab Configuration
 ![Banner](images/analyzerlabsetup.jpg)
 
+- `Voice calls` hit a common Entry Point and answers with a Flow enabled for Google CCAI.
+- <li> Tell the auto attendant you want to speak to an agent
+- <li> Enter your Student Number.  The number matches the number in your login ID.
+- <li> Calls will route to your own queue so ensure your agent is logged in and your agent will get the call
+- `Omnichannel` contacts will all route to a common queue
+- <li> Help your classmates out by responding to their emails, texts, facebook and SMS queries.
+
 ## Pre-requisite
 
 1. Recommended to review this before the Lab: Data and Analytics with New Webex Contact Center Analyzer - BRKCCT-1004
