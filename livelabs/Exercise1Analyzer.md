@@ -14,8 +14,6 @@ title: "Exercise 1: Administrator Dashboard and User Interface"
 
 **Quick Links**
 
-* [Portal](https://portal.wxcc-us1.cisco.com/portal)
-* [Analyzer](https://analyzer.wxcc-us1.cisco.com/analyzer/home)
 * <a href="https://portal.wxcc-us1.cisco.com/portal" target="_blank">Portal</a>
 * <a href="https://analyzer.wxcc-us1.cisco.com/analyzer/home" target="_blank">Analyzer</a>
 
