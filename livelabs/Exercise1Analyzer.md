@@ -46,7 +46,7 @@ We will also be creating two new reports (one for Call and one for agent) to cap
 - Video Checkpoints
 * [Entry Point Site Level Dashboard](https://www.youtube.com/embed/E4Ch2gUSRi4?start=63"){:target="_blank"}
 * 
-<a href="https://www.youtube.com/embed/E4Ch2gUSRi4?start=63"" target="_blank">Entry Point Site Level Dashboard </a>
+<a href="https://www.youtube.com/embed/E4Ch2gUSRi4?start=63" target="_blank">Entry Point Site Level Dashboard </a>
                                                                                             
 - Search Folder & Visualization
 - List or Grid View
