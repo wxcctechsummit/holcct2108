@@ -1,4 +1,4 @@
--># Session Title<-
+-># Session Title<- <br>
 Exercise 1: Administrator Dashboard and User Interface
 
 <p align="center">
