@@ -16,12 +16,9 @@
 * <a href="https://portal.wxcc-us1.cisco.com/portal" target="_blank">Portal</a>
 * <a href="https://analyzer.wxcc-us1.cisco.com/analyzer/home" target="_blank">Analyzer</a>
 
-# Lab Instructional Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/453BlLMFetU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-
 ## Lab Objective
 
-This lab is designed to give you basic understanding of Analyzer, user interface features , how execute stock reports and use them to create custom reports per your need.  
+This lab is designed to give you basic understanding of Analyzer, user interface features , how execute stock reports and use them to create custom reports per your need. In these videos the `lab goal` is familiarization of the product and terminology. 
 
 We will also be creating two new reports (one for Call and one for agent) to capture relevent information and then will use these reports in a dashboard, while doing this we will learns about capabilities and features you can use to capture the required insights.
 
@@ -37,9 +34,9 @@ We will also be creating two new reports (one for Call and one for agent) to cap
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E4Ch2gUSRi4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 **Lab Section Information & Guide**
-1. Login to the WxCC portal using the Portal link above.
+1. `Login to the WxCC portal` using the Portal link above.
 2. Login using your provided student email and password.  Emails for this lab are always **cladmXuser@mailinator.com** where **X** is your student number.
-3. The initial dashboard includes several Realtime & Historical reports showing current contact information in the system.
+3. The initial dashboard includes several `Realtime & Historical` reports showing current contact information in the system.
 4. Navigate (shown in the video) through the various dashboard reports and the dropdown allowing you to see current information to familiarize yourself with these stock reports.
 - Video Checkpoints
 > * <a href="https://www.youtube.com/embed/E4Ch2gUSRi4?start=63" target="_blank">Entry Point Site Level Dashboard </a>
@@ -47,9 +44,9 @@ We will also be creating two new reports (one for Call and one for agent) to cap
 > * <a href="https://www.youtube.com/embed/E4Ch2gUSRi4?start=75" target="_blank">Contact Center Overview - Historical Dashboard </a>
 > * <a href="https://www.youtube.com/embed/E4Ch2gUSRi4?start=85" target="_blank">Agent State Data - Realtime Dashboard </a>
 
-5. Navigate back to the Entry Point Site Level Dashboard and complete some navigation exercises shown in the video
-6. Cross-Launch from dashboard to a specific dashboard **Entry Point Historical Dashboard**
-7. From the Cross-Launched dashboard - Cross-Launch into Analyzer to the specific table **Incomming, Short Contacts Entry Point** anf follow the instructions to set filters as desired.
+5. `Navigate back to the Entry Point Site Level Dashboard` and complete some navigation exercises shown in the video
+6. `Cross-Launch` from dashboard to a specific dashboard **Entry Point Historical Dashboard**
+7. From the Cross-Launched dashboard - C`ross-Launch into Analyzer` to the specific table **Incomming, Short Contacts Entry Point** anf follow the instructions to set filters as desired.
 > * <a href="https://www.youtube.com/embed/E4Ch2gUSRi4?start=3:12" target="_blank">Analyzer Incomming, Short Contacts Entry Point </a>
 8. End of Exercise 1.1
 
@@ -57,12 +54,15 @@ We will also be creating two new reports (one for Call and one for agent) to cap
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xKoAPtAtXzo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 **Lab Section Information & Guide**
-1. Login to the WxCC Analyzer using the Analyzer link above
-2. If already in Analyzer click on the **Home** icon to head back to the start screen of Analyzer
-3. Navigate around the home screen learning the different features available on this screen
-4. Select the Visualization icon to navigate to the Visualization repository
+1. `Login to the WxCC Analyzer` using the Analyzer link above
+2. If already in Analyzer click on the `Home` icon to head back to the start screen of Analyzer
+3. `Navigate` around the home screen learning the different features available on this screen
+4. Select the `Visualization` icon to navigate to the Visualization repository
 > * <a href="https://www.youtube.com/embed/E4Ch2gUSRi4?start=1:12" target="_blank">Visualization</a>
-5. 
+5. Use the `Search` box to find specific or groups of reports
+6. Report information on card 2:46
+7. Set preferred view characteristics 3:40
+8. 
 
 # Exercise 1.3 Access Control
 
