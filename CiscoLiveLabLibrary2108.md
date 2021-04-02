@@ -12,6 +12,9 @@ Welcome to Cisco Live 2021 HOLCCT-2108 New Webex Contact Center Analyzer - Data 
 ## Purpose and Scope
 This intermediate level lab session is intended for Contact Center engineers and Business Managers/Supervisors with prior Contact Center experience. No previous exposure to the product is required. Get all knowledge to…... This lab covers all aspects of, Cisco's native-cloud Webex Contact Center Reporting from basic UI to Advanced Visualization and Data capabilities
 
+## Analyzer Lab Configuration
+![Banner](images/analyzerlabsetup.jpg)
+
 ## Pre-requisite
 
 1. Recommended to review this before the Lab: Data and Analytics with New Webex Contact Center Analyzer - BRKCCT-1004
