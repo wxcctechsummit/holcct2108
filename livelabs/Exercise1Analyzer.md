@@ -5,12 +5,9 @@ title: "Exercise 1: Administrator Dashboard and User Interface"
 # Cisco Live HOLCCT-2108 Webex Contact Center Reporting - Analyzer Deep Dive
 
 # Table of Contents
-
-- [1. Login into Analyzer and review user interface](#1-login-into-analyzer-and-review-user-interface)
-- [2. Execute Stock Report and use it to create custom reports](#2-execute-stock-report-and-use-it-to-create-custom-reports)
-- [3. Create an Agent Historical Call Visualization](#3-create-an-agent-historical-call-visualization)
-- [4. Create a Call Realtime Report](#4-create-a-call-realtime-report)
-- [5. Create Dashboard](#5-create-dashboard)
+1. Exercise 1.1: Dashboard reports
+2. Exercise 1.2: Analyzer User Interface
+3. Exercise 1.3: Access Control
 
 **Quick Links**
 
@@ -39,24 +36,20 @@ We will also be creating two new reports (one for Call and one for agent) to cap
 
 ## <- Details need to be changed 
 **Section Information**
-- Login into the WxCC portal using the Portal link above.
-- Login using your provided student email and password.  Emails for this lab are always **cladmXuser@mailinator.com** where **X** is your student number.
-- The initial dashboard includes several Realtime & Historical reports showing current contact information in the system.
-- Navigate (shown in the video) through the various dashboard reports and the dropdown allowing you to see current information to familiarize yourself with these stock reports.
+1. Login into the WxCC portal using the Portal link above.
+2. Login using your provided student email and password.  Emails for this lab are always **cladmXuser@mailinator.com** where **X** is your student number.
+3. The initial dashboard includes several Realtime & Historical reports showing current contact information in the system.
+4. Navigate (shown in the video) through the various dashboard reports and the dropdown allowing you to see current information to familiarize yourself with these stock reports.
 - Video Checkpoints
-1.  <a href="https://www.youtube.com/embed/E4Ch2gUSRi4?start=63" target="_blank">Entry Point Site Level Dashboard </a>
-2.  <a href="https://www.youtube.com/embed/E4Ch2gUSRi4?start=68" target="_blank">Contact Center Overview - Realtime Dashboard </a>
-3.  <a href="https://www.youtube.com/embed/E4Ch2gUSRi4?start=75" target="_blank">Contact Center Overview - Historical Dashboard </a>
-4.  <a href="https://www.youtube.com/embed/E4Ch2gUSRi4?start=85" target="_blank">Agent State Data - Realtime Dashboard </a>
-- Navigate back to the Entry Point Site Level Dashboard and complete some navigation exercises shown in the video
-- Cross-Launch from dashboard to a specific dashboard **Entry Point Historical Dashboard**
-- From the Cross-Launched dashboard - Cross-Launch into Analyzer to the specific table **Incomming, Short Contacts Entry Point**
+a.  <a href="https://www.youtube.com/embed/E4Ch2gUSRi4?start=63" target="_blank">Entry Point Site Level Dashboard </a>
+b.  <a href="https://www.youtube.com/embed/E4Ch2gUSRi4?start=68" target="_blank">Contact Center Overview - Realtime Dashboard </a>
+c.  <a href="https://www.youtube.com/embed/E4Ch2gUSRi4?start=75" target="_blank">Contact Center Overview - Historical Dashboard </a>
+d.  <a href="https://www.youtube.com/embed/E4Ch2gUSRi4?start=85" target="_blank">Agent State Data - Realtime Dashboard </a>
+5. Navigate back to the Entry Point Site Level Dashboard and complete some navigation exercises shown in the video
+6. Cross-Launch from dashboard to a specific dashboard **Entry Point Historical Dashboard**
+7. From the Cross-Launched dashboard - Cross-Launch into Analyzer to the specific table **Incomming, Short Contacts Entry Point** anf follow the instructions to set filters as desired.
 -   <a href="https://www.youtube.com/embed/E4Ch2gUSRi4?start=3:12" target="_blank">Analyzer Incomming, Short Contacts Entry Point </a>
-- List or Grid View
-- Visualization Summary information
-- Report Details information
-
-
+8. End of video Guide
 
 # Exercise 1.2 Analyzer User Interface
 
