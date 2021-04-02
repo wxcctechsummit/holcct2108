@@ -48,6 +48,7 @@ a.  <a href="https://www.youtube.com/embed/E4Ch2gUSRi4?start=63" target="_blank"
 b.  <a href="https://www.youtube.com/embed/E4Ch2gUSRi4?start=68" target="_blank">Contact Center Overview - Realtime Dashboard </a>
 c.  <a href="https://www.youtube.com/embed/E4Ch2gUSRi4?start=75" target="_blank">Contact Center Overview - Historical Dashboard </a>
 d.  <a href="https://www.youtube.com/embed/E4Ch2gUSRi4?start=85" target="_blank">Agent State Data - Realtime Dashboard </a>
+
 5. Navigate back to the Entry Point Site Level Dashboard and complete some navigation exercises shown in the video
 6. Cross-Launch from dashboard to a specific dashboard **Entry Point Historical Dashboard**
 7. From the Cross-Launched dashboard - Cross-Launch into Analyzer to the specific table **Incomming, Short Contacts Entry Point** anf follow the instructions to set filters as desired.
