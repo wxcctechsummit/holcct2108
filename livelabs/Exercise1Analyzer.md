@@ -44,7 +44,7 @@ We will also be creating two new reports (one for Call and one for agent) to cap
 5. `Navigate back to the Entry Point Site Level Dashboard` and complete some navigation exercises shown in the video
 6. `Cross-Launch` from dashboard to a specific dashboard **Entry Point Historical Dashboard**
 7. From the Cross-Launched dashboard - `Cross-Launch into Analyzer` to the specific table **Incomming, Short Contacts Entry Point** anf follow the instructions to set filters as desired.
-> * <a href="https://www.youtube.com/embed/Q4kf8dHN8x8?start=3:12" target="_blank">Analyzer Incomming, Short Contacts Entry Point </a> <br>
+> * <a href="https://www.youtube.com/embed/Q4kf8dHN8x8?start=192" target="_blank">Analyzer Incomming, Short Contacts Entry Point </a> <br>
 8. This exercise completed
 
 # Exercise 1.2 Analyzer User Interface
