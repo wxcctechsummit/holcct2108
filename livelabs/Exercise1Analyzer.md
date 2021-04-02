@@ -16,6 +16,8 @@ title: "Exercise 1: Administrator Dashboard and User Interface"
 
 * [Portal](https://portal.wxcc-us1.cisco.com/portal)
 * [Analyzer](https://analyzer.wxcc-us1.cisco.com/analyzer/home)
+* <a href="https://portal.wxcc-us1.cisco.com/portal" target="_blank">Portal</a>
+* <a href="https://analyzer.wxcc-us1.cisco.com/analyzer/home" target="_blank">Analyzer</a>
 
 # Introduction
 <iframe width="560" height="315" src="https://www.youtube.com/embed/453BlLMFetU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
