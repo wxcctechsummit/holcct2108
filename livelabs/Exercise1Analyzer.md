@@ -24,9 +24,8 @@ We will also be creating two new reports (one for Call and one for agent) to cap
 
 ## Pre-requisite
 
-1. All previous labs completed
-2. Admin or supervisor credential with Analytics access in user profile
-3. Make sure to make few test calls and answered by the agent the day you attempting this lab (to ensure we have some data to analyze)
+1. Admin or supervisor credential with Analytics access in user profile
+2. Make sure to make few test calls and answered by the agent the day you attempting this lab (to ensure we have some data to analyze)
 
 
 # Exercise 1.1. Login into Analyzer and review dashboard reports
@@ -35,7 +34,7 @@ We will also be creating two new reports (one for Call and one for agent) to cap
 <br>
 <br>
 **Lab Section Information & Guide**
-1. `Login to the WxCC portal` using the Portal link above.
+1. First `Login to the WxCC portal` using the Portal link above.
 2. Login using your provided student email and password.  Emails for this lab are always **cladmXuser@mailinator.com** where **X** is your student number.
 3. The initial dashboard includes several `Realtime & Historical` reports showing current contact information in the system.
 4. Navigate (shown in the video) through the various dashboard reports and the dropdown allowing you to see current information to familiarize yourself with these stock reports.
