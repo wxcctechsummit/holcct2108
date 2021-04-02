@@ -12,6 +12,17 @@ Welcome to Cisco Live 2021 HOLCCT-2108 New Webex Contact Center Analyzer - Data 
 ## Purpose and Scope
 This intermediate level lab session is intended for Contact Center engineers and Business Managers/Supervisors with prior Contact Center experience. No previous exposure to the product is required. Get all knowledge to…... This lab covers all aspects of, Cisco's native-cloud Webex Contact Center Reporting from basic UI to Advanced Visualization and Data capabilities
 
+## Pre-requisite
+
+1. Recommended to review this before the Lab: Data and Analytics with New Webex Contact Center Analyzer - BRKCCT-1004
+2. Ensure that you have received your tenant login credentials and directions to make some test calls before starting the Lab
+
+**Quick Links**
+
+* [Portal](https://portal.wxcc-us1.cisco.com/portal)
+* [Analyzer](https://analyzer.wxcc-us1.cisco.com/analyzer/home)
+
+
 ## Analyzer Lab Configuration
 ![Banner](images/analyzerlabsetup.jpg)
 
@@ -61,16 +72,9 @@ This intermediate level lab session is intended for Contact Center engineers and
 
 ## Inbound SMS
 1. Text to +12029824690 
-## Pre-requisite
+2. If any agents are available, the SMS will get routed.
+3. If no agents are available, you will not get a response
 
-1. Recommended to review this before the Lab: Data and Analytics with New Webex Contact Center Analyzer - BRKCCT-1004
-2. Ensure that you have received your tenant login credentials and directions to make some test calls before starting the Lab
-
-
-**Quick Links**
-
-* [Portal](https://portal.wxcc-us1.cisco.com/portal)
-* [Analyzer](https://analyzer.wxcc-us1.cisco.com/analyzer/home)
 
 ## Lab Schedule
 
