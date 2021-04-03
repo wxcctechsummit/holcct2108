@@ -32,24 +32,22 @@ We will also be creating two new reports (one for Call and one for agent) to cap
 
 # Exercise 2.1 - Execute Stock Reports
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zR2ryZ7x9kA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1024" height="576" src="https://youtube.com/embed/aCGxNPmWvPw?rel=0" title="Exercise 2.1 Execute Stock Reports" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Section Information**
-- Create a folder
-- Save a stock report as custom in your folder
-- Execute Your report
-- Information in preview
-- Run a Stock Dashboard
+- Run various stock reports
+- Copy stock reports and edit to suit your reporting needs
+- Exporting reports
 
-1. Go to `Home --> Visualization`
-2. Click on `Create New`  and select `Folder` to create a new folder with your name
-3. Click on ` Stock Reports -> Historical -> Reports -> Agent Reports`
-4. Take cursor on top of `Agent Details` report, click 3 dots and click `Create a Copy` [Direct Start Link](https://www.youtube.com/embed/zR2ryZ7x9kA?start=50)
-5. Click `Save As..` , select the Folder you created previously, change the Report name to something custom to your self (For example KT_Agent Details) and click `OK`
-6. Not close this report by clicking x on right upper side.
-7. Go back to your Folder under `Home ->  Visualization` and Double click (or click on 3 dots and click `Run`) on your newly added report to run it.
-9. Now you are in Preview mode and to check the `data summary` for this report  click on burger sign next to `setting` on the header. Make a note of `Data Summary` and `Details`
-10. Click on `Export` option and download this report in `Excel` or `CSV` format.
-11. Make a note of informational `Timezone` information on right hand upper side and make sure this match with your browser time.
-12. Click on `Dashboard -> Stock Reports -> Historical Reports -> Contact Center Overview`
-13. Double click `Contact Center Overview - Historical` . This will should your Contact Center Historical Summary
+1. In this lab, start in Analyzer.  If you are not in Analyzer, please navigate to the Analyzer home page
+2. Go to `Home --> Visualization`
+3. Use the search option and search for `contact` finding the `Contact Details in Queue` report
+4. Run the report by either `double click` or using the elipsis menu and choosing `Run`
+5. Review the report information and click on the `hamburger` or expand option at the top left to see `Data Summary` and `Details` about the report
+6. Click on the `Details` tab for the report and review the various report configuration objects
+7. Click on the `Settings` button and test the various options outlined in the video like hiding columns or copying data elements.  Direct link to this part of the video below.
+> * [Test Stock Report Options](https://www.youtube.com/ebmed/aCGxNPmWvPw?start=139)
+8. Run the report in the `Tenant Time Zone`
+9. Review the Analyzer URL for the report which shows the `tid` which is the Tenant ID and `rid` which is the report ID.  The tenant ID is unique to every tenant and very useful for troubleshooting or back end change requests.
+10. This concludes the first lab in Exercise Section 2
+
