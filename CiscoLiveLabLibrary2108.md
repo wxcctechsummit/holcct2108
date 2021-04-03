@@ -45,8 +45,8 @@ This intermediate level lab session is intended for Contact Center engineers and
 ## Email Assistance
 1. Use your email client and send to:  wxccanalyzer@gmail.com
 
-## Chat using WxCC Chat Widget
-1. Navigate to a Java Script editor like [JS.DO](https://js.do/)
+## Chat using WxCC Chat Widget  
+1. Navigate to a Java Script editor like <a href="https://js.do/" target="_blank">JS.DO</a>
 2. Insert the following code block into the Java Editor, on the left side
 ```
 <script>
