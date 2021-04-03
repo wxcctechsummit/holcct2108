@@ -99,4 +99,4 @@ This intermediate level lab session is intended for Contact Center engineers and
 * [Lab 6: Data Capabilities](livelabs/Exercise6Analyzer.md)
 
 # Lab Info Per User
-* [LabInfo](livelabs/LabInfo.md)
+* [LabInfo](livelabs/labinfo.md)
