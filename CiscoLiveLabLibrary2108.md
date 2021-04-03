@@ -17,7 +17,7 @@ This intermediate level lab session is intended for Contact Center engineers and
 1. Recommended to review this before the Lab: Data and Analytics with New Webex Contact Center Analyzer - BRKCCT-1004
 2. Ensure that you have received your tenant login credentials and directions to make some test calls before starting the Lab
 
-**Quick Links**
+**Quick Links**<br>
 *Hint: for links to open in separate tabs, right click and choose open in separate tab.  Videos will automatically open in a separate tab*
 
 * [Portal](https://portal.wxcc-us1.cisco.com/portal)
