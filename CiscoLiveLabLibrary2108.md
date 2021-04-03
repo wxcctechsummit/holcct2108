@@ -92,10 +92,12 @@ This intermediate level lab session is intended for Contact Center engineers and
 **Full video links used in the lab instructions**
 
 ### Lab 1: Admin Portal Dashboards and Analyzer User Interface
-1. [Lab Exercise 1.1](https://www.youtube.com/embed/Q4kf8dHN8x8)
-2. [Lab Exercise 1.2](https://www.youtube.com/embed/4pGNHkd87Zs)
-3. [Lab Exercise 1.3](https://www.youtube.com/embed/MTa2UUmcedA)
-* [Lab 2: Stock Reports](livelabs/Exercise2Analyzer.md)
+1. [Lab Exercise 1.1](https://youtu.be/Q4kf8dHN8x8)
+2. [Lab Exercise 1.2](https://youtu.be/4pGNHkd87Zs)
+3. [Lab Exercise 1.3](https://youtu.be/MTa2UUmcedA)
+### Lab 2: Stock Reports
+1. [Lab Exercise 2.1](https://youtu.be/aCGxNPmWvPw)
+2. [Lab Exercise 2.2]
 * [Lab 3: Custom Visualizations : Contact and Agent](livelabs/Exercise3Analyzer.md)
 * [Lab 4: Advanced Insight Functionalities ](livelabs/Lab4Analyzer.md)
 * [Lab 5: Dashboards](livelabs/Exercise5Analyzer.md) 
