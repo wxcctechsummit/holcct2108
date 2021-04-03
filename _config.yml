@@ -1,8 +1,6 @@
 title: Cisco Live 2021 - HOLCCT-2108
 description: Lab guide for HOLCCT-2108
-author:
-  name: Lab support email
-  email: "wxcclabs@cisco.com"
+author: Cisco Live 2021
 remote_theme: jekyll/minima
 
 minima:
