@@ -32,7 +32,6 @@ We will also be creating two new reports (one for Call and one for agent) to cap
 
 <iframe width="560" height="315" src="https://youtube.com/embed/Q4kf8dHN8x8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
-**Lab Section Information & Guide** 
 
 1. First `Login to the WxCC portal` using the Portal link above.
 2. Login using your provided student email and password.  Emails for this lab are always **cladmXuser@mailinator.com** where **X** is your student number.
@@ -50,7 +49,7 @@ We will also be creating two new reports (one for Call and one for agent) to cap
 # Exercise 1.2 Analyzer User Interface
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4pGNHkd87Zs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-**Lab Section Information & Guide**
+
 1. `Login to the WxCC Analyzer` using the Analyzer link above
 2. If already in Analyzer click on the `Home` icon to head back to the start screen of Analyzer
 3. `Navigate` around the home screen learning the different features available on this screen
@@ -65,7 +64,7 @@ We will also be creating two new reports (one for Call and one for agent) to cap
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MTa2UUmcedA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-**Section Information**
+
 - Create a Historical Agent report
 - Repository and Interval Selection
 - Using Measures and Profile Variables
