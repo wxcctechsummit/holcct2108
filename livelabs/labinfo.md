@@ -49,3 +49,23 @@ Welcome to the Cisco Live Webex Contact Center Analyzer Reporting Deep Dive.  Th
 | Jeremiah  | Plaskett   | BYTE WORKS LLC               | Team-12     | 210812    | cladm12user@mailinator.com | H0lcct2108! |
 | Ryan      | Retelle    | UWHCA                        | Team-13     | 210813    | cladm13user@mailinator.com | H0lcct2108! |
 | Param     | Singh      | WORLD WIDE TECHNOLOGY INC    | Team-14     | 210814    | cladm14user@mailinator.com | H0lcct2108! |
+
+## Session 2 - April 15
+
+| JASON       | STEWART    | INSIGHT NORTH AMERICA INC         | Team-15 | 210815 | cladm15user@mailinator.com | H0lcct2108! |
+|-------------|------------|-----------------------------------|---------|--------|----------------------------|-------------|
+| Karen       | Brady      | EIR GROUP HQ                      | Team-16 | 210816 | cladm16user@mailinator.com | H0lcct2108! |
+| Jeremy      | Chapman    | FORSYTHE SOLUTIONS GROUP          | Team-17 | 210817 | cladm17user@mailinator.com | H0lcct2108! |
+| Dallas      | Cook       | SALT LAKE COUNTY MIS              | Team-18 | 210818 | cladm18user@mailinator.com | H0lcct2108! |
+| STEVEN      | GLOWACKI   | PCM SALES ACQUISITION LLC         | Team-19 | 210819 | cladm19user@mailinator.com | H0lcct2108! |
+| Jocelyn     | Hamryszak  | LOGICALIS INC                     | Team-20 | 210820 | cladm20user@mailinator.com | H0lcct2108! |
+| Michel      | Koreman    | AXIANS COMMUNICATION SOLUTIONS BV | Team-21 | 210821 | cladm21user@mailinator.com | H0lcct2108! |
+| David       | Krauss     | ACBB-BITS LLC                     | Team-22 | 210822 | cladm22user@mailinator.com | H0lcct2108! |
+| Aaron       | Lefler     | HENRY FORD HEALTH SYSTEM          | Team-23 | 210823 | cladm23user@mailinator.com | H0lcct2108! |
+| Stephan     | Lüscher    | ANYWEB AG                         | Team-24 | 210824 | cladm24user@mailinator.com | H0lcct2108! |
+| Christophe  | MARTINS    | ACTIVEO SUISSE                    | Team-25 | 210825 | cladm25user@mailinator.com | H0lcct2108! |
+| LUKE        | MAXWELL    | ITGL LTD                          | Team-26 | 210826 | cladm26user@mailinator.com | H0lcct2108! |
+| Athinodoros | Siskamanis | RTEL SA                           | Team-27 | 210827 | cladm27user@mailinator.com | H0lcct2108! |
+| neeraj      | suriyal    | ORANGE BUSINESS SERVICES          | Team-28 | 210828 | cladm28user@mailinator.com | H0lcct2108! |
+| Todd        | Thornton   | CALIFORNIA HIGHWAY PATROL         | Team-29 | 210829 | cladm29user@mailinator.com | H0lcct2108! |
+| Yuhua       | Zhu        | ALBERTA HEALTH SERVICES           | Team-30 | 210830 | cladm30user@mailinator.com | H0lcct2108! |
