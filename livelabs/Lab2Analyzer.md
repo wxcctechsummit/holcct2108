@@ -1,28 +1,24 @@
----
-title: "Exercise 2: Stock Reports"
----
 
-# Webex Contact Center Reporting - Analyzer
+<p align="center">
+  <img src="https://ayankovs-ccp-s3.s3.eu-west-3.amazonaws.com/CiscoLiveLogo.jpg">
+</p>
+
+# Cisco Live HOLCCT-2108 Webex Contact Center Reporting - Analyzer Deep Dive <br>
+## Exercises 1.1 to 1.3
 
 # Table of Contents
-
-- [1. Login into Analyzer and review user interface](#1-login-into-analyzer-and-review-user-interface)
-- [2. Execute Stock Report and use it to create custom reports](#2-execute-stock-report-and-use-it-to-create-custom-reports)
-- [3. Create an Agent Historical Call Visualization](#3-create-an-agent-historical-call-visualization)
-- [4. Create a Call Realtime Report](#4-create-a-call-realtime-report)
-- [5. Create Dashboard](#5-create-dashboard)
+1. Exercise 1.1: Dashboard reports
+2. Exercise 1.2: Analyzer User Interface
+3. Exercise 1.3: Access Control
 
 **Quick Links**
 
-* [Portal](https://portal.wxcc-us1.cisco.com/portal)
-* [Analyzer](https://analyzer.wxcc-us1.cisco.com/analyzer/home)
-
-# Introduction  -below link will start a specified time for example until we code correctly
-<iframe width="560" height="315" src="https://www.youtube.com/embed/453BlLMFetU?start=32" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+* <a href="https://portal.wxcc-us1.cisco.com/portal" target="_blank">Portal</a>
+* <a href="https://analyzer.wxcc-us1.cisco.com/analyzer/home" target="_blank">Analyzer</a>
 
 ## Lab Objective
 
-This lab is designed to give you basic understanding of Analyzer, user interface features , how execute stock reports and use them to create custom reports per your need.  
+This lab is designed to give you basic understanding of Analyzer, user interface features , how execute stock reports and use them to create custom reports per your need. In these videos the `lab goal` is familiarization of the product and terminology. 
 
 We will also be creating two new reports (one for Call and one for agent) to capture relevent information and then will use these reports in a dashboard, while doing this we will learns about capabilities and features you can use to capture the required insights.
 
