@@ -32,7 +32,7 @@ We will also be creating two new reports (one for Call and one for agent) to cap
 
 <iframe width="560" height="315" src="https://youtube.com/embed/Q4kf8dHN8x8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
-
+### Instructions
 1. First `Login to the WxCC portal` using the Portal link above.
 2. Login using your provided student email and password.  Emails for this lab are always **cladmXuser@mailinator.com** where **X** is your student number.
 3. The initial dashboard includes several `Realtime & Historical` reports showing current contact information in the system.
@@ -46,10 +46,11 @@ We will also be creating two new reports (one for Call and one for agent) to cap
 > * <a href="https://www.youtube.com/embed/Q4kf8dHN8x8?start=192" target="_blank">Analyzer Incomming, Short Contacts Entry Point </a> <br>
 8. This exercise completed
 
+
 # Exercise 1.2 Analyzer User Interface
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4pGNHkd87Zs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-
+### Instructions
 1. `Login to the WxCC Analyzer` using the Analyzer link above
 2. If already in Analyzer click on the `Home` icon to head back to the start screen of Analyzer
 3. `Navigate` around the home screen learning the different features available on this screen
@@ -58,12 +59,13 @@ We will also be creating two new reports (one for Call and one for agent) to cap
 5. Use the `Search` box to find specific or groups of reports
 6. Report information on card 2:46
 7. Set preferred view characteristics 3:40
-8. 
+
 
 # Exercise 1.3 Access Control
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MTa2UUmcedA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
+### Instructions
 
 - Create a Historical Agent report
 - Repository and Interval Selection
