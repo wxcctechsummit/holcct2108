@@ -97,3 +97,6 @@ This intermediate level lab session is intended for Contact Center engineers and
 * [Lab 4: Advanced Insight Functionalities ](livelabs/Lab4Analyzer.md)
 * [Lab 5: Dashboards](livelabs/Exercise5Analyzer.md) 
 * [Lab 6: Data Capabilities](livelabs/Exercise6Analyzer.md)
+
+# Lab Info Per User
+* [LabInfo](livelabs/LabInfo.md)
