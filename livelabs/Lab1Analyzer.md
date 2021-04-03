@@ -55,7 +55,7 @@ We will also be creating two new reports (one for Call and one for agent) to cap
 2. If already in Analyzer click on the `Home` icon to head back to the start screen of Analyzer
 3. `Navigate` around the home screen learning the different features available on this screen
 4. Select the `Visualization` icon to navigate to the Visualization repository
-> * <a href="https://www.youtube.com/embed/4pGNHkd87Zs?start=1:12" target="_blank">Visualization</a>
+> * <a href="https://www.youtube.com/embed/4pGNHkd87Zs?start=72" target="_blank">Visualization</a>
 5. Use the `Search` box to find specific or groups of reports
 6. Report information on card 2:46
 7. Set preferred view characteristics 3:40
@@ -67,35 +67,12 @@ We will also be creating two new reports (one for Call and one for agent) to cap
 
 ### Instructions
 
-- Create a Historical Agent report
-- Repository and Interval Selection
-- Using Measures and Profile Variables
-- How to use Enhanced Field
-- How to creat new Formulas
+- Goals for this lab are to set user restrictions and dashboard views
 
-
-1. Go to `Home --> Visualization` and Click on your `Folder` created in previous excercise.
-2. Click on `Create New` --> `Visualization`
-3. On the top pane Click next to `Type` and select `Agent Session Record`
-4. On left pane click next to `Start Time` and select `Last 7 Days`
-5. Click on `Compute` and select under `Interval` Daily
-6. Click on `+ Row Segment`, search for Field `Agent`. Select `Agent Name` and drag it to `Row segment` area (Green color pane)
-7. Click on `Interval` on `Column Segment` and drag it to `Row Segment` under `Agent Name`
-8. Click on `+ Profile Variable` , search for `connected` and click on `Measure` drop-down. Select `Connected Count` and drag it to `Profile Variable` pane (Green). Here click on `Formula`  and select `Sum of Connected Count`, change the name to `Inbound Calls` and Click `Save`
-9. Repeat `step 7` and drag `Outdial Connected Count` and Save `Sum of Outdial Connected Count` as `Outdial Calls`
-10. Click `Save` option on the top pane
-11. Name the report as `Agent Call Volume Last7Days`  and click `OK`
-12. Click on `Preview`, You can see `Calls handled (Inbound and Outbound)` by all the agents for `last 7 days.`
-13. Lets see how can we leverage `Enhanced Field` to create Grouping of `Segment fields`.
-14. Go to `Edit view` of the report, right click on the `Agent Name` and click on `Create Enhanced Field`
-15. Change the `Name` to `LOB_{YourNameInitial}`, Type `Default` in `Default Group` 
-16. In `Group` configure `Group Name` as `Sales` and select your `agent` in `Provide Value`  and `Save` it
-17. Now move the newly created `Enhanced field` above `Agent Name` by click and drag in the segment section.
-18. Now this `Enhanced field` can be saved to use globally in other reports by `right click` on the field and click `SAVE`  and `SAVE`.
-18. `Save` the report and `Preview`: You will see `Enhanced Field` in first column : `Default` and `Sales` with your agent assigned under `Sales` and rest of the agents under `Default`.
-19. Lets see how we can create `Custom formula`: In this case we would like to get a field which give us `total number of calls handled by the agent including inbound and outbound`.
-20. Go to the `report edit view` and right Click on `Inbound Call`--> `click New Formula`
-21. Name the formula as `Total Agent Call_{YourNameInitial}`
-22. In Arithmetic Expression Use `Inbound Call + Outdial Calls` (Click the down arrow to see the field) and `Save`
-23. This Formula can be saved for global use in other reports, to do so `right click` on the newly created formula variable and click `save` and then `OK`
-23. `Save` the report and `Preview`, this will add new column providing you `Total number of calls`
+1. Ensure you are logged into the Admin portal
+2. `Open` Analyzer in a new tab to enable you to switch between tasks in Portal and Analyzer
+3. In Admin Portal, navitate to `Provisioning - Users`
+> * <a href="https://www.youtube.com/embed/MTa2UUmcedA?start=64" target="_blank">GoTo Users</a> 
+4. Navigate to **Your** `user profile` and edit that profile
+> * NOTE: You will be editing your Supervisor Team Profile.  Search for `Supervisor Team X` where X is your student number.
+5. 
