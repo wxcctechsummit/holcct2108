@@ -48,14 +48,14 @@ We will also be creating two new reports (one for Call and one for agent) to cap
 8. This exercise completed
 
 # Exercise 1.2 Analyzer User Interface
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xKoAPtAtXzo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4pGNHkd87Zs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 **Lab Section Information & Guide**
 1. `Login to the WxCC Analyzer` using the Analyzer link above
 2. If already in Analyzer click on the `Home` icon to head back to the start screen of Analyzer
 3. `Navigate` around the home screen learning the different features available on this screen
 4. Select the `Visualization` icon to navigate to the Visualization repository
-> * <a href="https://www.youtube.com/embed/E4Ch2gUSRi4?start=1:12" target="_blank">Visualization</a>
+> * <a href="https://www.youtube.com/embed/4pGNHkd87Zs?start=1:12" target="_blank">Visualization</a>
 5. Use the `Search` box to find specific or groups of reports
 6. Report information on card 2:46
 7. Set preferred view characteristics 3:40
@@ -63,7 +63,7 @@ We will also be creating two new reports (one for Call and one for agent) to cap
 
 # Exercise 1.3 Access Control
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xKoAPtAtXzo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTa2UUmcedA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 **Section Information**
 - Create a Historical Agent report
