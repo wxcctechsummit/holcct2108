@@ -20,8 +20,8 @@ This intermediate level lab session is intended for Contact Center engineers and
 **Quick Links**<br>
 *Hint: for links to open in separate tabs, right click and choose open in separate tab.  Videos will automatically open in a separate tab*
 
-* [Portal](https://portal.wxcc-us1.cisco.com/portal)
-* [Analyzer](https://analyzer.wxcc-us1.cisco.com/analyzer/home)
+* <a href="https://portal.wxcc-us1.cisco.com/portal" target="_blank">Portal</a>
+* <a href="https://analyzer.wxcc-us1.cisco.com/analyzer/home" target="_blank">Analyzer</a>
 
 
 ## Analyzer Lab Configuration
@@ -40,7 +40,7 @@ This intermediate level lab session is intended for Contact Center engineers and
 	* Help your classmates out by responding to their emails, texts, facebook and SMS queries.
 
 ## Facebook Chats
-1. Use the following Link:  [Facebook](https://www.facebook.com/Wxcc-Demo-Page-107841834739318)
+1. Use the following Link: <a href="https://www.facebook.com/Wxcc-Demo-Page-107841834739318" target="_blank">Facebook</a>
 
 ## Email Assistance
 1. Use your email client and send to:  wxccanalyzer@gmail.com
