@@ -71,4 +71,5 @@ We will also be creating two new reports (one for Call and one for agent) to cap
 9. Customize the field sizes by reducing the field header names as shown in the video
 10. Congratulations.  This completes Lab 2.  Proceed to Lab 3.
 
-### Analyzer Lab 3 Instructions
+## Next Lab is Lab 3: Custom Visualizations
+> * [Analyzer Lab 3 Link](https://wxcctechsummit.github.io/holcct2108/livelabs/Lab3Analyzer.html)
