@@ -4,12 +4,11 @@
 </p>
 
 # Cisco Live HOLCCT-2108 Webex Contact Center Reporting - Analyzer Deep Dive <br>
-## Exercises 1.1 to 1.3
+## Exercises 2.1 and 2.2
 
 # Table of Contents
-1. Exercise 1.1: Dashboard reports
-2. Exercise 1.2: Analyzer User Interface
-3. Exercise 1.3: Access Control
+1. Exercise 2.1: Execute Stock Reports
+2. Exercise 2.2: Create Custom Reports using Stock Reports
 
 **Quick Links**
 
