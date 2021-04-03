@@ -70,8 +70,23 @@ We will also be creating two new reports (one for Call and one for agent) to cap
 
 1. Ensure you are logged into the Admin portal
 2. `Open` Analyzer in a new tab to enable you to switch between tasks in Portal and Analyzer
-3. In Admin Portal, navitate to `Provisioning - Users`
-> * <a href="https://www.youtube.com/MdKzqrZ-EGA?start=64" target="_blank">GoTo Users</a> 
-4. Navigate to **Your** `user profile` and edit that profile
+3. Create a folder for yourself with the name `Team_X` where X is your student number
+> * <a href="https://www.youtube.com/MdKzqrZ-EGA?start=64" target="_blank">Create a Folder</a> 
+4. In Admin Portal, navitate to `Provisioning - Users`
+5. Use the `Search` to find your profile.  You can search for your student number to make it easy. 
+6. Check which User Profile is being used by your user. 
+> * <a href="https://www.youtube.com/MdKzqrZ-EGA?start=103" target="_blank">Find User Profile</a>
 > * NOTE: You will be editing your Supervisor Team Profile.  Search for `Supervisor Team X` where X is your student number.
-5. 
+8. Edit your user profile by navigating to `User Profiles` and select the elipsis menu next to that profile, then click Edit
+9. In your user profile, navigate to `Access Rights`
+10. Set the appropriate access rights to the folders as outlined in the video
+11. Set the appropriate Entry Point access for this user profile as well
+12. **Save your work**
+13. Navigate back to the `Portal Dashboard` to view the change on the dashboard
+14. Navigate to Analyzer and refresh if needed then check the `Visualizations` to make sure the folders you do not want to see are gone
+15. Congratulations on finishing `Lab 1 Exercises`.  This exercise was high level to reinforce Analyzer concepts.
+
+## Next Lab is Lab 2: Stock Reports
+> * [Analyzer Lab 2 Link](https://wxcctechsummit.github.io/holcct2108/livelabs/Lab2Analyzer.html)
+
+
