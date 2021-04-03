@@ -31,16 +31,16 @@ We will also be creating two new reports (one for Call and one for agent) to cap
 # Exercise 1.1. Login into Analyzer and review dashboard reports
 
 <iframe width="560" height="315" src="https://youtube.com/embed/Q4kf8dHN8x8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-<br>
-<br>
-**Lab Section Information & Guide** <br>
+
+**Lab Section Information & Guide** 
+
 1. First `Login to the WxCC portal` using the Portal link above.
 2. Login using your provided student email and password.  Emails for this lab are always **cladmXuser@mailinator.com** where **X** is your student number.
 3. The initial dashboard includes several `Realtime & Historical` reports showing current contact information in the system.
 4. Navigate (shown in the video) through the various dashboard reports and the dropdown allowing you to see current information to familiarize yourself with these stock reports.
 - Video Checkpoints
 > * <a href="https://www.youtube.com/embed/Q4kf8dHN8x8?start=56" target="_blank">Drop-down Dashboard Views </a>
-d
+
 5. `Navigate back to the Entry Point Site Level Dashboard` and complete some navigation exercises shown in the video
 6. `Cross-Launch` from dashboard to a specific dashboard **Entry Point Historical Dashboard**
 7. From the Cross-Launched dashboard - `Cross-Launch into Analyzer` to the specific table **Incomming, Short Contacts Entry Point** anf follow the instructions to set filters as desired.
