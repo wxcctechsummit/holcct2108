@@ -18,6 +18,7 @@ This intermediate level lab session is intended for Contact Center engineers and
 2. Ensure that you have received your tenant login credentials and directions to make some test calls before starting the Lab
 
 **Quick Links**
+*Hint: for links to open in separate tabs, right click and choose open in separate tab.  Videos will automatically open in a separate tab*
 
 * [Portal](https://portal.wxcc-us1.cisco.com/portal)
 * [Analyzer](https://analyzer.wxcc-us1.cisco.com/analyzer/home)
