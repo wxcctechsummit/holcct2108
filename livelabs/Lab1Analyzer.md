@@ -33,7 +33,7 @@ We will also be creating two new reports (one for Call and one for agent) to cap
 <iframe width="560" height="315" src="https://youtube.com/embed/Q4kf8dHN8x8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 <br>
 <br>
-**Lab Section Information & Guide**
+**Lab Section Information & Guide** <br>
 1. First `Login to the WxCC portal` using the Portal link above.
 2. Login using your provided student email and password.  Emails for this lab are always **cladmXuser@mailinator.com** where **X** is your student number.
 3. The initial dashboard includes several `Realtime & Historical` reports showing current contact information in the system.
