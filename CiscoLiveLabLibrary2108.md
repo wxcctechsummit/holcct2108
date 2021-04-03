@@ -43,7 +43,7 @@ This intermediate level lab session is intended for Contact Center engineers and
 1. Use the following Link: <a href="https://www.facebook.com/Wxcc-Demo-Page-107841834739318" target="_blank">Facebook</a>
 
 ## Email Assistance
-1. Use your email client and send to:  wxccanalyzer@gmail.com
+1. Use your email client and send to:  `wxccanalyzer@gmail.com`
 
 ## Chat using WxCC Chat Widget  
 1. Navigate to a Java Script editor like <a href="https://js.do/" target="_blank">JS.DO</a>
@@ -72,7 +72,7 @@ This intermediate level lab session is intended for Contact Center engineers and
 4. Look on the **Lower Right Side** for the `Chat Bubble` and click that to start a Chat session
 
 ## Inbound SMS
-1. Text to +12029824690 
+1. Text to `+12029824690`
 2. If any agents are available, the SMS will get routed.
 3. If no agents are available, you will not get a response
 
