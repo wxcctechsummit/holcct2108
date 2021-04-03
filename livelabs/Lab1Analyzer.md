@@ -40,7 +40,7 @@ We will also be creating two new reports (one for Call and one for agent) to cap
 4. Navigate (shown in the video) through the various dashboard reports and the dropdown allowing you to see current information to familiarize yourself with these stock reports.
 - Video Checkpoints
 > * <a href="https://www.youtube.com/embed/Q4kf8dHN8x8?start=56" target="_blank">Drop-down Dashboard Views </a>
-
+d
 5. `Navigate back to the Entry Point Site Level Dashboard` and complete some navigation exercises shown in the video
 6. `Cross-Launch` from dashboard to a specific dashboard **Entry Point Historical Dashboard**
 7. From the Cross-Launched dashboard - `Cross-Launch into Analyzer` to the specific table **Incomming, Short Contacts Entry Point** anf follow the instructions to set filters as desired.
