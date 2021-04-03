@@ -97,8 +97,9 @@ This intermediate level lab session is intended for Contact Center engineers and
 3. [Lab Exercise 1.3](https://youtu.be/MTa2UUmcedA)
 ### Lab 2: Stock Reports
 1. [Lab Exercise 2.1](https://youtu.be/aCGxNPmWvPw)
-2. [Lab Exercise 2.2]
-* [Lab 3: Custom Visualizations : Contact and Agent](livelabs/Exercise3Analyzer.md)
+2. [Lab Exercise 2.2](https://youtu.be/f-vsOu32tD4)
+### Lab 3: Custom Visualizations : Contact and Agent
+1. 
 * [Lab 4: Advanced Insight Functionalities ](livelabs/Lab4Analyzer.md)
 * [Lab 5: Dashboards](livelabs/Exercise5Analyzer.md) 
 * [Lab 6: Data Capabilities](livelabs/Exercise6Analyzer.md)
