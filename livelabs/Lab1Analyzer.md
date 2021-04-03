@@ -28,9 +28,9 @@ We will also be creating two new reports (one for Call and one for agent) to cap
 2. Make sure to make few test calls and answered by the agent the day you attempting this lab (to ensure we have some data to analyze)
 
 
-# Exercise 1.1. Login into Analyzer and review dashboard reports
+# Exercise 1.1. Login to Analyzer and Review Dashboard Reports
 
-<iframe width="560" height="315" src="https://youtube.com/embed/Q4kf8dHN8x8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<iframe width="1024" height="576" src="https://youtube.com/embed/Q4kf8dHN8x8?rel=0" title="Exercise 1.1 Login to Analyzer and Review Dashboard Reports" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Instructions
 1. First `Login to the WxCC portal` using the Portal link above.
@@ -48,7 +48,7 @@ We will also be creating two new reports (one for Call and one for agent) to cap
 
 
 # Exercise 1.2 Analyzer User Interface
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4pGNHkd87Zs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="1024" height="576" src="https://www.youtube.com/embed/4pGNHkd87Zs?rel=0" title="Exercise 1.2 Analyzer User Interface" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Instructions
 1. `Login to the WxCC Analyzer` using the Analyzer link above
@@ -62,7 +62,7 @@ We will also be creating two new reports (one for Call and one for agent) to cap
 
 # Exercise 1.3 Access Control
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MdKzqrZ-EGA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="1024" height="576" src="https://youtube.com/embed/MdKzqrZ-EGA?rel=0" title="Exercise 1.3 Access Control" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Instructions
 
