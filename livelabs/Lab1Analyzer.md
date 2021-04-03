@@ -60,10 +60,9 @@ We will also be creating two new reports (one for Call and one for agent) to cap
 6. Report information on card 2:46
 7. Set preferred view characteristics 3:40
 
-
 # Exercise 1.3 Access Control
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTa2UUmcedA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MdKzqrZ-EGA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 ### Instructions
 
@@ -72,7 +71,7 @@ We will also be creating two new reports (one for Call and one for agent) to cap
 1. Ensure you are logged into the Admin portal
 2. `Open` Analyzer in a new tab to enable you to switch between tasks in Portal and Analyzer
 3. In Admin Portal, navitate to `Provisioning - Users`
-> * <a href="https://www.youtube.com/embed/MTa2UUmcedA?start=64" target="_blank">GoTo Users</a> 
+> * <a href="https://www.youtube.com/MdKzqrZ-EGA?start=64" target="_blank">GoTo Users</a> 
 4. Navigate to **Your** `user profile` and edit that profile
 > * NOTE: You will be editing your Supervisor Team Profile.  Search for `Supervisor Team X` where X is your student number.
 5. 
