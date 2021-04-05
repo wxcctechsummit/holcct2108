@@ -114,17 +114,17 @@ This intermediate level lab session is intended for Contact Center engineers and
 - [Lab Exercise 2.1 Execute Stock Reports](https://youtu.be/aCGxNPmWvPw)
 - [Lab Exercise 2.2 : Create Custom Report using Stock Report](https://youtu.be/f-vsOu32tD4)
 ### Lab 3: Custom Visualizations : Contact and Agent Videos
-1. [Exercise 3.1 - Create Realtime Contact Report](https://youtu.be/n4qAwwhuTmg)
-2. [Exercise 3.2 - Create Realtime Agent Report](https://youtu.be/IiA0RYmgoIE)
-3. [Exercise 3.3 - Create Chat Reports with Interval](https://youtu.be/t_Ub0xGfG0s)
+- [Exercise 3.1 - Create Realtime Contact Report](https://youtu.be/n4qAwwhuTmg)
+- [Exercise 3.2 - Create Realtime Agent Report](https://youtu.be/IiA0RYmgoIE)
+- [Exercise 3.3 - Create Chat Reports with Interval](https://youtu.be/t_Ub0xGfG0s)
 
 ### Lab 4: Advanced Insights Videos
-* [Exercise 4.1 - Using Formula and Filter](https://youtu.be/mIaUgAEjRHs)
-* [Exercise 4.2 - Enhanced Field Compound Visualizations](https://youtu.be/Poc7WdDdbEM)
+- [Exercise 4.1 - Using Formula and Filter](https://youtu.be/mIaUgAEjRHs)
+- [Exercise 4.2 - Enhanced Field Compound Visualizations](https://youtu.be/Poc7WdDdbEM)
 
 ### Lab 5: Dashboards
-* [Lab 5: Dashboards](livelabs/Exercise5Analyzer.md) 
-* [Lab 6: Data Capabilities](livelabs/Exercise6Analyzer.md)
+- [Lab 5: Dashboards](livelabs/Exercise5Analyzer.md) 
+- [Lab 6: Data Capabilities](livelabs/Exercise6Analyzer.md)
 
 # Lab Info Per User
 * [LabInfo](livelabs/labinfo.md)
