@@ -46,6 +46,7 @@ This lab is designed to dig deeper into Analyzer and rather than copying and edi
 <iframe width="1024" height="576" src="https://youtube.com/embed/IiA0RYmgoIE?rel=0" title="Exercise 2.1 Execute Stock Reports" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Section Information**
+- Create a new AAR Agent Activity Realtime Report
 
 1. Create a new visualization in Analyzer as an `Agent Activity Record`
 2. Set this report as a Realtime Report with a Snapshot refresh rate of 3 seconds
@@ -57,3 +58,16 @@ This lab is designed to dig deeper into Analyzer and rather than copying and edi
 
 
 Exercise 3.3 - Create Chat Reports with Interval
+<iframe width="1024" height="576" src="https://youtube.com/embed/t_Ub0xGfG0s?rel=0" title="Exercise 2.1 Execute Stock Reports" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Section Information**
+- Create a new `Chart View` historical report for Total Calls and Abandoned Calls
+
+1. Create a new visualization using CSR report data. `CSR is Customer Session Record`
+2. Set this as a `Monthly` report
+3. Follow the instructions in the video to complete the fields.  `This will be a Line Chart`
+4. When done, save this chart as `3.3_CSR_ContactVolume`
+5. This section is done.  When complete, move to Lab 4.
+
+## Next Lab is Lab 4: Advanced Insights
+> * [Analyzer Lab 4 Link](https://wxcctechsummit.github.io/holcct2108/livelabs/Lab4Analyzer.html)
