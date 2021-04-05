@@ -7,7 +7,7 @@ title: "Cisco Live HOLCCT-2108 Lab Guide Library"
 
 ![Banner](images/wxccbanner.jpg)
 
-### Welcome to Cisco Live 2021 HOLCCT-2108 New Webex Contact Center Analyzer - Data and Analytics Deep Dive.  
+### Welcome to Cisco Live 2021 HOLCCT-2108 New Webex Contact Center Analyzer - Data and Analytics Deep Dive  
 
 # Table of Contents
 1. [Webex Contact Center Quick Links](#quick-links)
@@ -133,4 +133,4 @@ This intermediate level lab session is intended for Contact Center engineers and
 # Lab Info Per User
 * [LabInfo](livelabs/labinfo.md)
 
-[Back to top](#cisco-live-holcct-2108-webex-contact-center-reporting---analyzer-deep-dive)
+[Back to top](#welcome-to-cisco-live-2021-holcct-2108-new-webex-contact-center-analyzer---data-and-analytic-deep-dive)
