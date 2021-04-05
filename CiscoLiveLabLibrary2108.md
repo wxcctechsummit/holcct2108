@@ -114,22 +114,15 @@ This intermediate level lab session is intended for Contact Center engineers and
 ### Lab 2: Stock Reports Videos
 - <a href="https://youtube.com/embed/aCGxNPmWvPw" target="_blank">Lab Exercise 2.1 Execute Stock Reports</a>
 - <a href="https://youtube.com/embed/f-vsOu32tD4" target="_blank">Lab Exercise 2.2 : Create Custom Report using Stock Report</a>
-- [Lab Exercise 2.1 Execute Stock Reports](https://youtu.be/aCGxNPmWvPw)
-- [Lab Exercise 2.2 : Create Custom Report using Stock Report](https://youtu.be/f-vsOu32tD4)
 
 ### Lab 3: Custom Visualizations : Contact and Agent Videos
-- <a href="https://youtube.com/embed/MdKzqrZ-EGA" target="_blank">Lab Exercise 1.3 Access Control</a>
-- <a href="https://youtube.com/embed/MdKzqrZ-EGA" target="_blank">Lab Exercise 1.3 Access Control</a>
-- <a href="https://youtube.com/embed/MdKzqrZ-EGA" target="_blank">Lab Exercise 1.3 Access Control</a>
-- [Exercise 3.1 - Create Realtime Contact Report](https://youtu.be/n4qAwwhuTmg)
-- [Exercise 3.2 - Create Realtime Agent Report](https://youtu.be/IiA0RYmgoIE)
-- [Exercise 3.3 - Create Chat Reports with Interval](https://youtu.be/t_Ub0xGfG0s)
+- <a href="https://youtube.com/embed/n4qAwwhuTmg" target="_blank">Exercise 3.1 - Create Realtime Contact Report</a>
+- <a href="https://youtube.com/embed/IiA0RYmgoIE" target="_blank">Exercise 3.2 - Create Realtime Agent Report</a>
+- <a href="https://youtube.com/embed/t_Ub0xGfG0s" target="_blank">Exercise 3.3 - Create Chat Reports with Interval</a>
 
 ### Lab 4: Advanced Insights Videos
-- <a href="https://youtube.com/embed/MdKzqrZ-EGA" target="_blank">Lab Exercise 1.3 Access Control</a>
-- <a href="https://youtube.com/embed/MdKzqrZ-EGA" target="_blank">Lab Exercise 1.3 Access Control</a>
-- [Exercise 4.1 - Using Formula and Filter](https://youtu.be/mIaUgAEjRHs)
-- [Exercise 4.2 - Enhanced Field Compound Visualizations](https://youtu.be/Poc7WdDdbEM)
+- <a href="https://youtube.com/embed/mIaUgAEjRHs" target="_blank">Exercise 4.1 - Using Formula and Filter</a>
+- <a href="https://youtube.com/embed/Poc7WdDdbEM" target="_blank">Exercise 4.2 - Enhanced Field Compound Visualizations</a>
 
 ### Lab 5: Dashboards
 - <a href="https://youtube.com/embed/MdKzqrZ-EGA" target="_blank">Lab Exercise 1.3 Access Control</a>
