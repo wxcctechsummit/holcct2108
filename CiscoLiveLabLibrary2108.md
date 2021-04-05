@@ -13,8 +13,13 @@ title: "Cisco Live HOLCCT-2108 Lab Guide Library"
 - [Webex Contact Center Quick Links](#quick-links)
 - [Analyzer Lab Configuration Diagram](#analyzer-lab-configuration)
 - [Connecting Instructions](#connecting-instructions)
-- * [Inbound Voice](#inbound-voice)
-- 
+ * [Inbound Voice](#inbound-voice)
+ * [Facebook Chats](#facebook-chats)
+ * [Email Assistance](#email-assistance)
+ * [Chat using WxCC Chat Widget](#chat-using-wxcc-chat-widget)
+ * [Inbound SMS](#inbound-sms)
+- [Lab Schedule](#lab-schedule)
+- [Lab Video Links](#lab-video-links)
 
 ## Purpose and Scope
 This intermediate level lab session is intended for Contact Center engineers and Business Managers/Supervisors with prior Contact Center experience. No previous exposure to the product is required. Get all knowledge to…... This lab covers all aspects of, Cisco's native-cloud Webex Contact Center Reporting from basic UI to Advanced Visualization and Data capabilities
