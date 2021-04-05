@@ -116,3 +116,6 @@ This lab is designed to build upon previous labs where custom reports were creat
 25. This completes all the requirements of this exercise
 
 
+## Next Lab is Lab 5: Dashboards
+> * [Analyzer Lab 5 Link](https://wxcctechsummit.github.io/holcct2108/livelabs/Lab5Analyzer.html)
+
