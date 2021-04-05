@@ -7,7 +7,7 @@
 
 
 # Table of Contents
-1. [Exercise 4.1: Using Formula and Filter](#exercise-4-1-using-formulas-and-filters)
+1. [Exercise 4.1: Using Formula and Filter](#Exercise-4-1-Using-Formulas-and-Filters)
 2. [Exercise 4.2: Enhanced Field Compound Visualization and Drill-down](#paragraph2)
 
 **Quick Links**
