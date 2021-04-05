@@ -14,6 +14,7 @@
 
 * <a href="https://portal.wxcc-us1.cisco.com/portal" target="_blank">Portal</a>
 * <a href="https://analyzer.wxcc-us1.cisco.com/analyzer/home" target="_blank">Analyzer</a>
+* <a href="https://desktop.wxcc-us1.cisco.com" target="_blank">Agent Desktop</a>
 
 ## Lab Objective
 
