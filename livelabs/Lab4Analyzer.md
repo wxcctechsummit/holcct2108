@@ -2,7 +2,7 @@
   <img src="https://ayankovs-ccp-s3.s3.eu-west-3.amazonaws.com/CiscoLiveLogo.jpg">
 </p>
 
-# Cisco Live HOLCCT-2108 Webex Contact Center Reporting - Analyzer Deep Dive <br>
+# Cisco Live HOLCCT-2108 Webex Contact Center Reporting - Analyzer Deep Dive
 ## Exercises 4.1 and 4.2
 
 
@@ -119,3 +119,4 @@ This lab is designed to build upon previous labs where custom reports were creat
 ## Next Lab is Lab 5: Dashboards
 > * [Analyzer Lab 5 Link](https://wxcctechsummit.github.io/holcct2108/livelabs/Lab5Analyzer.html)
 
+[Back to top](#cisco-live-holcct-2108-webex-contact-center-reporting---analyzer-deep-dive)
