@@ -42,6 +42,18 @@ This lab is designed to dig deeper into Analyzer and rather than copying and edi
 6. This completes your first custom report
 
 # Exercise 3.2 - Create Realtime Agent Report
+https://youtu.be/IiA0RYmgoIE
+<iframe width="1024" height="576" src="https://youtube.com/embed/IiA0RYmgoIE?rel=0" title="Exercise 2.1 Execute Stock Reports" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Section Information**
+
+1. Create a new visualization in Analyzer as an `Agent Activity Record`
+2. Set this report as a Realtime Report with a Snapshot refresh rate of 3 seconds
+3. Follow the video guide to add the reporting element columns 
+> * [Add New Column Data](https://www.youtube.com/embed/IiA0RYmgoIE?start=88)
+4. Once done, `Save` the new report as `3.2_AAR_AgentState`
+5. `Review` the report by doing a preview and if all is good, this exercise is complete
+6. Move to the next and last exercise
+
+
 Exercise 3.3 - Create Chat Reports with Interval
