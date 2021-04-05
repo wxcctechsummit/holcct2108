@@ -19,7 +19,7 @@
 
 ## Lab Objective
 
-This lab is designed to build upon previous labs where custom reports were created and saved.  Those reports will be used in this lab to further get simple, useful and actionalble data insights.  In this lab we will explore `Enhanced Fields`, `Heat Map view`, `Compound Visualizations`, and 'Drill-down`
+This lab is designed to build upon previous labs where custom reports were created and saved.  Those reports will be used in this lab to further get simple, useful and actionalble data insights.  In this lab we will explore `Enhanced Fields`, `Heat Map view`, `Compound Visualizations`, and `Drill-down`
 
 ### Pre-requisite
 
@@ -28,14 +28,37 @@ This lab is designed to build upon previous labs where custom reports were creat
 3. Make sure to make few test calls and answered by the agent the day you attempting this lab (to ensure we have some data to analyze)
 
 
-# Exercise 4.1 Using Formula and Filter
+# Exercise 4.1 Using Formulas and Filters
 
-<iframe width="1024" height="576" src="https://youtube.com/embed/mIaUgAEjRHs?rel=0" title="Exercise 2.1 Execute Stock Reports" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1024" height="576" src="https://youtube.com/embed/mIaUgAEjRHs?rel=0" title="Exercise 4.1 Using Formulas and Filters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Section Information**
-- Run various stock reports
-- Copy stock reports and edit to suit your reporting needs
-- Exporting reports
+## Section Information
+- Create a Queue Performance Report
+- Add report values like number of connected calls for a queue, number of calls waiting in queue and longest duration for calls in queue
+
+1. Create a CSR report and set it as a Realtime report with a refresh set to 3 seconds
+2. On the Row Segment set Final Queue Name.  `Instructions are also listed on screen in the videos`
+3. Drag Connected Count to `Profile Variables` 
+4. Drag Contact Session ID to Profile Variables and set a `filter` her for calls that are Parked
+5. Drag Realtime Contact Timestamp to `Profile Variables` and set for the `Minimum Value of`
+6. Right click and `create a new formula` on the Realtime Contact Timestamp
+7. The new formula should be named LongestDuration and the expression should be `Current Timestamp` - `Minimum Realtime Update Timestamp`
+![NewFormulalab4-1](https://user-images.githubusercontent.com/75790934/113608997-dad57f00-9610-11eb-8b61-427d0b93a00f.png)
+8. Hide the Minimum Realtime Contact Timestamp created in step 6.
+9. Save the report as `4.1_CSR_QueueStatus`
+10. Set any columns that require timestamps with the appropriate formatting
+11. On the `left` column, add a filter and use Final Queue Name
+12. In the filter under the `Fields` section, set the Queue names that should appear in the report
+13. Be sure to save the LongestDuration as a global variable
+14. `Next` we will be opening a newly created report from Lab 3 - 3.2_AAR_AgentState [Video Timeslot Here](https://youtube.com/embed/mIaUgAEjRHs?start=7m56s)
+15. Use the global filter created in the previous report to filter your team in this report
+16. `Save` this new report as `4.1.2_AAR_AgentState`
+17. `Next` Edit the newly created report in Lab 3 named `3.1_CSR_Contacts` 
+18. `Add a Filter` using Final Queue Name and set a Regular Expression
+  - Use the expression `QV_+` as the wildcard.  
+19. `Save` the expression then choose `Save as` and call this new report `4.1.3_CSR_Contacts'
+20. This completes this lab.  Please proceed to the next lab below.
+
 
 # Exercise 4.2 Enhanced Field Compound Visualization and Drill-down
 
