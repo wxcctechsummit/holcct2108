@@ -23,4 +23,4 @@ In the table below you can find the agenda of the lab and some referred links, w
 | 30 min | Data Capabilities | [Lab 6: Data Capabilities](livelabs/Lab6Analyzer.md) |
 
 # HOLCCT-2108 Main Page
-[Click here for Main Page](../CiscoLiveLabLibrary2108.md)
+[Click here for Main Page](/CiscoLiveLabLibrary2108.md)
