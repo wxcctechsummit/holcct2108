@@ -50,14 +50,15 @@ This lab is designed to build upon previous labs where custom reports were creat
 11. On the `left` column, add a filter and use Final Queue Name
 12. In the filter under the `Fields` section, set the Queue names that should appear in the report
 13. Be sure to save the LongestDuration as a global variable
-14. `Next` we will be opening a newly created report from Lab 3 - 3.2_AAR_AgentState [Start at Timeslot Link](https://youtube.com/embed/mIaUgAEjRHs?start=476)
-15. Use the global filter created in the previous report to filter your team in this report
-16. `Save` this new report as `4.1.2_AAR_AgentState`
-17. `Next` Edit the newly created report in Lab 3 named `3.1_CSR_Contacts` 
-18. `Add a Filter` using Final Queue Name and set a Regular Expression
+14. `Next` we will be opening a newly created report from Lab 3 - 3.2_AAR_AgentState 
+> * <a href="https://youtube.com/embed/mIaUgAEjRHs?start=476" target="_blank">Portal</a>
+16. Use the global filter created in the previous report to filter your team in this report
+17. `Save` this new report as `4.1.2_AAR_AgentState`
+18. `Next` Edit the newly created report in Lab 3 named `3.1_CSR_Contacts` 
+19. `Add a Filter` using Final Queue Name and set a Regular Expression
   - Use the expression `QV_+` as the wildcard.  
-19. `Save` the expression then choose `Save as` and call this new report `4.1.3_CSR_Contacts'
-20. This completes this lab.  Please proceed to the next lab below.
+20. `Save` the expression then choose `Save as` and call this new report `4.1.3_CSR_Contacts'
+21. This completes this lab.  Please proceed to the next lab below.
 
 
 # Exercise 4.2 Enhanced Field Compound Visualization and Drill-down
