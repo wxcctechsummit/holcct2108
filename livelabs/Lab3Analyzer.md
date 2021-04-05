@@ -2,13 +2,13 @@
   <img src="https://ayankovs-ccp-s3.s3.eu-west-3.amazonaws.com/CiscoLiveLogo.jpg">
 </p>
 
-# Cisco Live HOLCCT-2108 Webex Contact Center Reporting - Analyzer Deep Dive <br>
+# Cisco Live HOLCCT-2108 Webex Contact Center Reporting - Analyzer Deep Dive
 ## Exercises 3.1, 3.2 and 3.3
 
 # Table of Contents
-1. Exercise 3.1 - Create Realtime Contact Report
-2. Exercise 3.2 - Create Realtime Agent Report
-3. Exercise 3.3 - Create Chat Reports with Interval
+1. [Exercise 3.1 - Create Realtime Contact Report](#exercise-31---create-realtime-contact-report)
+2. [Exercise 3.2 - Create Realtime Agent Report](#exercise-32---create-realtime-agent-report)
+3. [Exercise 3.3 - Create Chat Reports with Interval](#exercise-33---create-chat-reports-with-interval)
 
 **Quick Links**
 
@@ -74,3 +74,5 @@ This lab is designed to dig deeper into Analyzer and rather than copying and edi
 
 ## Next Lab is Lab 4: Advanced Insights
 > * [Analyzer Lab 4 Link](https://wxcctechsummit.github.io/holcct2108/livelabs/Lab4Analyzer.html)
+
+[Back to top](#cisco-live-holcct-2108-webex-contact-center-reporting---analyzer-deep-dive)
