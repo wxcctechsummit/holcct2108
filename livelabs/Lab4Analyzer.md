@@ -60,7 +60,7 @@ This lab is designed to build upon previous labs where custom reports were creat
 > * <a href="https://youtube.com/embed/mIaUgAEjRHs?start=545" target="_blank">Start at timestamp</a>
 20. `Add a Filter` using Final Queue Name and set a Regular Expression
   - Use the expression `QV_+` as the wildcard.  
-  - Refer https://regex101.com/ to learn and test your regular expressions 
+  - Refer <a href="https://regex101.com/" target="_blank">REGEX</a> to learn and test your regular expressions 
 21. `Save` the expression then choose `Save as` and call this new report `4.1.3_CSR_Contacts'
 22. This completes this lab.  Please proceed to the next lab below.
 
