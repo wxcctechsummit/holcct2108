@@ -94,7 +94,8 @@ This lab is designed to build upon previous labs where custom reports were creat
 8. Back in the editor, select a `Heat Map` view for this table then `Save` and view or refresh your report view
 9. Click on the `ChannelGroup` created and save it to create a new Global Filter
 10. `Rename and Save` this report to `4.2.1_CSR_QueueStatus`
-11. Edit the recently created report named `4.2.1_CSR_ContactVolume`
+11. Run the recently created report named `4.1.3_CSR_Contacts` to view what changes may be needed
 > * <a href="https://youtube.com/embed/Poc7WdDdbEM?start=487" target="_blank">Start at timestamp</a>
-12. 
+12. Use the `Drill-down` functionality on a `Contact Session ID` block in the report
+13. 
 
