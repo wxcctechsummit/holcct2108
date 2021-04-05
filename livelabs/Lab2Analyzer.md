@@ -3,12 +3,12 @@
   <img src="https://ayankovs-ccp-s3.s3.eu-west-3.amazonaws.com/CiscoLiveLogo.jpg">
 </p>
 
-# Cisco Live HOLCCT-2108 Webex Contact Center Reporting - Analyzer Deep Dive <br>
+# Cisco Live HOLCCT-2108 Webex Contact Center Reporting - Analyzer Deep Dive
 ## Exercises 2.1 and 2.2
 
 # Table of Contents
-1. Exercise 2.1: Execute Stock Reports
-2. Exercise 2.2: Create Custom Reports using Stock Reports
+1. [Exercise 2.1: Execute Stock Reports](#exercise-21---execute-stock-reports)
+2. [Exercise 2.2: Create Custom Reports using Stock Reports](#exercise-22---create-custom-report-using-stock-reports)
 
 **Quick Links**
 
@@ -51,7 +51,7 @@ We will also be creating two new reports (one for Call and one for agent) to cap
 9. Review the Analyzer URL for the report which shows the `tid` which is the Tenant ID and `rid` which is the report ID.  The tenant ID is unique to every tenant and very useful for troubleshooting or back end change requests.
 10. This concludes the first lab in Exercise Section 2
 
-# Exercise 2.2 Create Custom Report using Stock Reports 
+# Exercise 2.2 - Create Custom Report using Stock Reports 
 
 <iframe width="1024" height="576" src="https://youtube.com/embed/f-vsOu32tD4?rel=0" title="Exercise 2.2 Create Custom Report using Stock Reports" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -74,3 +74,5 @@ We will also be creating two new reports (one for Call and one for agent) to cap
 
 ## Next Lab is Lab 3: Custom Visualizations
 > * [Analyzer Lab 3 Link](https://wxcctechsummit.github.io/holcct2108/livelabs/Lab3Analyzer.html)
+
+[Back to top](#cisco-live-holcct-2108-webex-contact-center-reporting---analyzer-deep-dive)
