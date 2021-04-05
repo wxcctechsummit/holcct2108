@@ -111,8 +111,8 @@ This intermediate level lab session is intended for Contact Center engineers and
 - [Lab Exercise 1.2 Analyzer User Interface](https://youtu.be/4pGNHkd87Zs)
 - [Lab Exercise 1.3 Access Control](https://youtu.be/MdKzqrZ-EGA)
 ### Lab 2: Stock Reports Videos
-1. [Lab Exercise 2.1 Execute Stock Reports](https://youtu.be/aCGxNPmWvPw)
-2. [Lab Exercise 2.2 : Create Custom Report using Stock Report](https://youtu.be/f-vsOu32tD4)
+- [Lab Exercise 2.1 Execute Stock Reports](https://youtu.be/aCGxNPmWvPw)
+- [Lab Exercise 2.2 : Create Custom Report using Stock Report](https://youtu.be/f-vsOu32tD4)
 ### Lab 3: Custom Visualizations : Contact and Agent Videos
 1. [Exercise 3.1 - Create Realtime Contact Report](https://youtu.be/n4qAwwhuTmg)
 2. [Exercise 3.2 - Create Realtime Agent Report](https://youtu.be/IiA0RYmgoIE)
