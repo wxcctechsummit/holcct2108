@@ -102,8 +102,13 @@ This intermediate level lab session is intended for Contact Center engineers and
 1. [Lab Exercise 2.1 Execute Stock Reports](https://youtu.be/aCGxNPmWvPw)
 2. [Lab Exercise 2.2 : Create Custom Report using Stock Report](https://youtu.be/f-vsOu32tD4)
 ### Lab 3: Custom Visualizations : Contact and Agent
-1. 
-* [Lab 4: Advanced Insight Functionalities ](livelabs/Lab4Analyzer.md)
+1. [Exercise 3.1 - Create Realtime Contact Report](https://youtu.be/n4qAwwhuTmg)
+2. [Exercise 3.2 - Create Realtime Agent Report](https://youtu.be/IiA0RYmgoIE)
+3. [Exercise 3.3 - Create Chat Reports with Interval](https://youtu.be/t_Ub0xGfG0s)
+
+### Lab 4: Advanced Insights 
+* [Exercise 4.1 - Using Formula and Filter](https://youtu.be/mIaUgAEjRHs)
+* 
 * [Lab 5: Dashboards](livelabs/Exercise5Analyzer.md) 
 * [Lab 6: Data Capabilities](livelabs/Exercise6Analyzer.md)
 
