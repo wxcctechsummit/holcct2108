@@ -59,7 +59,7 @@ This lab is designed to dig deeper into Analyzer and rather than copying and edi
 6. Move to the next and last exercise
 
 
-Exercise 3.3 - Create Chat Reports with Interval
+# Exercise 3.3 - Create Chat Reports with Interval
 <iframe width="1024" height="576" src="https://youtube.com/embed/t_Ub0xGfG0s?rel=0" title="Exercise 2.1 Execute Stock Reports" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
