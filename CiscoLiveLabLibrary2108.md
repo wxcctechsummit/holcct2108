@@ -25,6 +25,9 @@ This intermediate level lab session is intended for Contact Center engineers and
 * <a href="https://desktop.wxcc-us1.cisco.com" target="_blank">Agent Desktop</a>
 
 ## Analyzer Lab Configuration
+- Voice calls will guide you through the flow to enter your student ID and land in your team queue
+- Multimedia will be shared with all queues
+
 ![Banner](images/analyzerlabsetup.jpg)
 
 # Connecting Instructions
