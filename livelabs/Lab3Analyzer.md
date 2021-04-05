@@ -6,7 +6,7 @@
 ## Exercises 3.1, 3.2 and 3.3
 
 # Table of Contents
-1. Exercise 3.1 - Create Historical Contact Report
+1. Exercise 3.1 - Create Realtime Contact Report
 2. Exercise 3.2 - Create Realtime Agent Report
 3. Exercise 3.3 - Create Chat Reports with Interval
 
@@ -26,10 +26,22 @@ This lab is designed to dig deeper into Analyzer and rather than copying and edi
 3. Make sure to make few test calls and answered by the agent the day you attempting this lab (to ensure we have some data to analyze)
 
 
-# Exercise 3.1 - Create Historical Contact Report  
+# Exercise 3.1 - Create Realtime Contact Report  
 <iframe width="1024" height="576" src="https://youtube.com/embed/n4qAwwhuTmg?rel=0" title="Exercise 2.1 Execute Stock Reports" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Section Information**
+- Set User Profile back to All Entry Points
+- Create a new visualization for Realtime Contacts
 
-Exercise 3.2 - Create Realtime Agent Report
+1. Prior to starting the lab exercise, navitate to the user profile and return your user access for Entry Points to `All`
+2. Navigate to Analyzer and `Create` a new report visualization that will be saved in your personal directory.
+> * [Create New Visualization](https://www.youtube.com/embed/n4qAwwhuTmg?start=101)
+3. This will be a Realtime report so select the appropriate value under `Compute` on the left side of the screen
+4. Follow the video instructions to add the `14` values to the report
+5. `Save` The new report to your directory as `3.1_CSR_Contacts`
+6. This completes your first custom report
+
+# Exercise 3.2 - Create Realtime Agent Report
+
+**Section Information**
 Exercise 3.3 - Create Chat Reports with Interval
