@@ -42,7 +42,7 @@ This lab is designed to dig deeper into Analyzer and rather than copying and edi
 6. This completes your first custom report
 
 # Exercise 3.2 - Create Realtime Agent Report
-https://youtu.be/IiA0RYmgoIE
+
 <iframe width="1024" height="576" src="https://youtube.com/embed/IiA0RYmgoIE?rel=0" title="Exercise 2.1 Execute Stock Reports" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Section Information**
