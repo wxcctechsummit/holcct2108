@@ -18,11 +18,11 @@ This intermediate level lab session is intended for Contact Center engineers and
 2. Ensure that you have received your tenant login credentials and directions to make some test calls before starting the Lab
 
 **Quick Links**<br>
-*Hint: for links to open in separate tabs, right click and choose open in separate tab.  Videos will automatically open in a separate tab*
+*Note: We've done our best to ensure links open in a new tab, but if it does not, just right click and select the open in new tab option*
 
 * <a href="https://portal.wxcc-us1.cisco.com/portal" target="_blank">Portal</a>
 * <a href="https://analyzer.wxcc-us1.cisco.com/analyzer/home" target="_blank">Analyzer</a>
-
+* <a href="https://desktop.wxcc-us1.cisco.com" target="_blank">Agent Desktop</a>
 
 ## Analyzer Lab Configuration
 ![Banner](images/analyzerlabsetup.jpg)
