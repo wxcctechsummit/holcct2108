@@ -97,5 +97,22 @@ This lab is designed to build upon previous labs where custom reports were creat
 11. Run the recently created report named `4.1.3_CSR_Contacts` to view what changes may be needed
 > * <a href="https://youtube.com/embed/Poc7WdDdbEM?start=487" target="_blank">Start at timestamp</a>
 12. Use the `Drill-down` functionality on a `Contact Session ID` block in the report
-13. 
+13. Choose a call that was transferred by looking for a `consult`
+> * If this doesn't exist, you may decide to create some consult transfer calls
+15. Watching the video, as specified, click on the Agent Name option under fields.  This takes you to the first agent name.
+16. Click on the Field called Second Agent Name to see who this call was consult transferred to
+17. Experiment with Drill-down and export or open in a new tab
+18. `Next` Time to jump to the next and last part of this exercise
+> * <a href="https://youtube.com/embed/Poc7WdDdbEM?start=637" target="_blank">Start at timestamp</a>
+19. This part of the exercise will show `Enhanced Field Compound Visualization Drill-down`
+20. `Edit` the report `3.3_CSR_ContactVolume` and follow the video to make the needed changes
+  * Output Type - Table
+  * Compute - None
+  * Add Row Segment - Entrypoint Name
+21. `Rename` the current Module1 as `Monthly`
+22. Add another module and name it `Weekly` and set the interval to Weekly
+23. Remove the extra Module as shown in the video
+24. `Save as` on this report as `4.2.2_CSR_ContactVolume`
+25. This completes all the requirements of this exercise
+
 
