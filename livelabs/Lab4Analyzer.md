@@ -67,3 +67,25 @@ This lab is designed to build upon previous labs where custom reports were creat
 # Exercise 4.2 Enhanced Field Compound Visualization and Drill-down
 
 <iframe width="1024" height="576" src="https://youtube.com/embed/Poc7WdDdbEM?rel=0" title="Exercise 4.2 Enhanced Field Compound Visualization and Drill-down" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Section Information
+** Getting simple, actionable data insights from your reports using:
+- Enhanced Fields
+- Heat Map View
+- Compound Visualizations
+- Customized Drill-downs
+
+** Outcome reports in this lab will be
+- 4.2.1_CSR_QueueStatus
+- 4.2.2_CSR_ContactVolume
+
+1. Begin by running a previously created report named `4.1.1_CSR_QueueStatus` to review the report information
+> * <a href="https://youtube.com/embed/Poc7WdDdbEM?start=84" target="_blank">Start at timestamp</a>
+2. Edit the report to add reporting functionality 
+3. On the `Final Queue Name` block, right click and create a new enhancement to create a new `Channel Group` as listed in the video and `Save` the enhancement
+
+![NewEnhancment4 2 1](https://user-images.githubusercontent.com/75790934/113614055-9b5e6100-9617-11eb-96ed-fab3526f5899.png)
+
+4. `Save` the report and realign the sequence as shown in the video
+5. 
+
