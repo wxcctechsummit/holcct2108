@@ -7,9 +7,9 @@
 ## Exercises 1.1 to 1.3
 
 # Table of Contents
-1. Exercise 1.1: Dashboard reports
-2. Exercise 1.2: Analyzer User Interface
-3. Exercise 1.3: Access Control
+1. [Exercise 1.1: Dashboard reports](#exercise-11-login-to-analyzer-and-review-dashboard-reports)
+2. [Exercise 1.2: Analyzer User Interface](#exercise-12-analyzer-user-interface)
+3. [Exercise 1.3: Access Control](#exercise-13-access-control)
 
 **Quick Links**
 
@@ -28,7 +28,7 @@ We will also be creating two new reports (one for Call and one for agent) to cap
 2. Make sure to make few test calls and answered by the agent the day you attempting this lab (to ensure we have some data to analyze)
 
 
-# Exercise 1.1. Login to Analyzer and Review Dashboard Reports
+# Exercise 1.1 Login to Analyzer and Review Dashboard Reports
 
 <iframe width="1024" height="576" src="https://youtube.com/embed/Q4kf8dHN8x8?rel=0" title="Exercise 1.1 Login to Analyzer and Review Dashboard Reports" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -89,4 +89,4 @@ We will also be creating two new reports (one for Call and one for agent) to cap
 ## Next Lab is Lab 2: Stock Reports
 > * [Analyzer Lab 2 Link](https://wxcctechsummit.github.io/holcct2108/livelabs/Lab2Analyzer.html)
 
-
+[Back to top](#cisco-live-holcct-2108-webex-contact-center-reporting-analyzer-deep-dive)
