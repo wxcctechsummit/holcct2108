@@ -5,12 +5,10 @@
 # Cisco Live HOLCCT-2108 Webex Contact Center Reporting - Analyzer Deep Dive <br>
 ## Exercises 4.1 and 4.2
 
+
 # Table of Contents
-1. Exercise 4.1: Using Formula and Filter
-2. Exercise 4.2: Enhance Field Compound Visualization and Drill-down	
-# Table of Contents
-1. [Exercise 4.1: Using Formula and Filter](#exercise-4-1-using-formula-and-filter)
-2. [Exercise 4.2: Enhanced Field Compound Visualization and Drill-down](#exercise-4-2-enhanced-field-compound-visualization-and-drill-down)
+1. [Exercise 4.1: Using Formula and Filter](#paragraph1)
+2. [Exercise 4.2: Enhanced Field Compound Visualization and Drill-down](#paragraph2)
 
 **Quick Links**
 
@@ -21,9 +19,9 @@
 
 ## Lab Objective
 
-This lab is designed to build upon previous labs where custom reports were created and saved.  Those reports will be used in this lab to further get simple, useful and actionalble data insights.  In this lab we will explore `Enhanced Fields`, `Heat Map view`, `Compound Visualizations`, and 'Drill-down`.
+This lab is designed to build upon previous labs where custom reports were created and saved.  Those reports will be used in this lab to further get simple, useful and actionalble data insights.  In this lab we will explore `Enhanced Fields`, `Heat Map view`, `Compound Visualizations`, and 'Drill-down`
 
-## Pre-requisite
+### Pre-requisite
 
 1. All previous labs completed
 2. Admin or supervisor credential with Analytics access in user profile
