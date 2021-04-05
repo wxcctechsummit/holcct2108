@@ -43,6 +43,7 @@ This lab is designed to build upon previous labs where custom reports were creat
 5. Drag Realtime Contact Timestamp to `Profile Variables` and set for the `Minimum Value of`
 6. Right click and `create a new formula` on the Realtime Contact Timestamp
 7. The new formula should be named LongestDuration and the expression should be `Current Timestamp` - `Minimum Realtime Update Timestamp`
+
 ![NewFormulalab4-1](https://user-images.githubusercontent.com/75790934/113608997-dad57f00-9610-11eb-8b61-427d0b93a00f.png)
 8. Hide the Minimum Realtime Contact Timestamp created in step 6.
 9. Save the report as `4.1_CSR_QueueStatus`
