@@ -26,7 +26,6 @@ This lab is designed to build upon previous labs where custom reports were creat
 2. Admin or supervisor credential with Analytics access in user profile
 3. Make sure to make few test calls and answered by the agent the day you attempting this lab (to ensure we have some data to analyze)
 
-https://youtu.be/mIaUgAEjRHs
 
 # Exercise 4.1 Using Formula and Filter
 
