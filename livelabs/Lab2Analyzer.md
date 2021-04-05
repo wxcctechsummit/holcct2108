@@ -14,6 +14,7 @@
 
 * <a href="https://portal.wxcc-us1.cisco.com/portal" target="_blank">Portal</a>
 * <a href="https://analyzer.wxcc-us1.cisco.com/analyzer/home" target="_blank">Analyzer</a>
+* <a href="https://desktop.wxcc-us1.cisco.com" target="_blank">Agent Desktop</a>
 
 ## Lab Objective
 
@@ -26,8 +27,6 @@ We will also be creating two new reports (one for Call and one for agent) to cap
 1. All previous labs completed
 2. Admin or supervisor credential with Analytics access in user profile
 3. Make sure to make few test calls and answered by the agent the day you attempting this lab (to ensure we have some data to analyze)
-
-
 
 
 # Exercise 2.1 - Execute Stock Reports
