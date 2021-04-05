@@ -108,7 +108,9 @@ This intermediate level lab session is intended for Contact Center engineers and
 
 ### Lab 4: Advanced Insights 
 * [Exercise 4.1 - Using Formula and Filter](https://youtu.be/mIaUgAEjRHs)
-* 
+* [Exercise 4.2 - Enhanced Field Compound Visualizations](https://youtu.be/Poc7WdDdbEM)
+
+### Lab 5: Dashboards
 * [Lab 5: Dashboards](livelabs/Exercise5Analyzer.md) 
 * [Lab 6: Data Capabilities](livelabs/Exercise6Analyzer.md)
 
