@@ -5,13 +5,7 @@ title: "Exercise 3: Customizations"
 # Webex Contact Center Reporting - Analyzer
 
 # Table of Contents 
-### This will be changed
 
-- [1. Login into Analyzer and review user interface](#1-login-into-analyzer-and-review-user-interface)
-- [2. Execute Stock Report and use it to create custom reports](#2-execute-stock-report-and-use-it-to-create-custom-reports)
-- [3. Create an Agent Historical Call Visualization](#3-create-an-agent-historical-call-visualization)
-- [4. Create a Call Realtime Report](#4-create-a-call-realtime-report)
-- [5. Create Dashboard](#5-create-dashboard)
 
 **Quick Links**
 
@@ -19,7 +13,7 @@ title: "Exercise 3: Customizations"
 * [Analyzer](https://analyzer.wxcc-us1.cisco.com/analyzer/home)
 
 # Introduction
-### New video will be needed
+### New video will be needed https://youtu.be/n4qAwwhuTmg
 <iframe width="560" height="315" src="https://www.youtube.com/embed/453BlLMFetU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 ## Lab Objective
