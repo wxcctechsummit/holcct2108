@@ -29,6 +29,7 @@ This lab is designed to dig deeper into Analyzer and rather than copying and edi
 # Exercise 3.1 - Create Realtime Contact Report  
 <iframe width="1024" height="576" src="https://youtube.com/embed/n4qAwwhuTmg?rel=0" title="Exercise 2.1 Execute Stock Reports" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 **Section Information**
 - Set User Profile back to All Entry Points
 - Create a new visualization for Realtime Contacts
@@ -45,6 +46,7 @@ This lab is designed to dig deeper into Analyzer and rather than copying and edi
 
 <iframe width="1024" height="576" src="https://youtube.com/embed/IiA0RYmgoIE?rel=0" title="Exercise 2.1 Execute Stock Reports" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 **Section Information**
 - Create a new AAR Agent Activity Realtime Report
 
@@ -59,6 +61,7 @@ This lab is designed to dig deeper into Analyzer and rather than copying and edi
 
 Exercise 3.3 - Create Chat Reports with Interval
 <iframe width="1024" height="576" src="https://youtube.com/embed/t_Ub0xGfG0s?rel=0" title="Exercise 2.1 Execute Stock Reports" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 **Section Information**
 - Create a new `Chart View` historical report for Total Calls and Abandoned Calls
