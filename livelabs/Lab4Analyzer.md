@@ -88,5 +88,13 @@ This lab is designed to build upon previous labs where custom reports were creat
 ![NewEnhancment4 2 1](https://user-images.githubusercontent.com/75790934/113614055-9b5e6100-9617-11eb-96ed-fab3526f5899.png)
 
 4. `Save` the report and realign the sequence as shown in the video
-5. 
+5. `Preview` the report to view the changes.  You should see a new Chat Group for your chat channels
+6. `Delete` Final Queue Name from the Row Segments and `Save` once again previewing the results
+7. On the report view, click on the ChatGroup - Connected box and see that an icon will appear to `drill down` into those values.  `Click it`
+8. Back in the editor, select a `Heat Map` view for this table then `Save` and view or refresh your report view
+9. Click on the `ChannelGroup` created and save it to create a new Global Filter
+10. `Rename and Save` this report to `4.2.1_CSR_QueueStatus`
+11. Edit the recently created report named `4.2.1_CSR_ContactVolume`
+> * <a href="https://youtube.com/embed/Poc7WdDdbEM?start=487" target="_blank">Start at timestamp</a>
+12. 
 
