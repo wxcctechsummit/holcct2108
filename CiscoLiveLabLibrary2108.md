@@ -110,20 +110,16 @@ This intermediate level lab session is intended for Contact Center engineers and
 - <a href="https://youtube.com/embed/Q4kf8dHN8x8" target="_blank">Lab Exercise 1.1 Dashboard Reports</a>
 - <a href="https://youtube.com/embed/4pGNHkd87Zs" target="_blank">Lab Exercise 1.2 Analyzer User Interface</a>
 - <a href="https://youtube.com/embed/MdKzqrZ-EGA" target="_blank">Lab Exercise 1.3 Access Control</a>
-
 ### Lab 2: Stock Reports Videos
 - <a href="https://youtube.com/embed/aCGxNPmWvPw" target="_blank">Lab Exercise 2.1 Execute Stock Reports</a>
 - <a href="https://youtube.com/embed/f-vsOu32tD4" target="_blank">Lab Exercise 2.2 : Create Custom Report using Stock Report</a>
-
 ### Lab 3: Custom Visualizations : Contact and Agent Videos
 - <a href="https://youtube.com/embed/n4qAwwhuTmg" target="_blank">Exercise 3.1 - Create Realtime Contact Report</a>
 - <a href="https://youtube.com/embed/IiA0RYmgoIE" target="_blank">Exercise 3.2 - Create Realtime Agent Report</a>
 - <a href="https://youtube.com/embed/t_Ub0xGfG0s" target="_blank">Exercise 3.3 - Create Chat Reports with Interval</a>
-
 ### Lab 4: Advanced Insights Videos
 - <a href="https://youtube.com/embed/mIaUgAEjRHs" target="_blank">Exercise 4.1 - Using Formula and Filter</a>
 - <a href="https://youtube.com/embed/Poc7WdDdbEM" target="_blank">Exercise 4.2 - Enhanced Field Compound Visualizations</a>
-
 ### Lab 5: Dashboards
 - <a href="https://youtube.com/embed/MdKzqrZ-EGA" target="_blank">Lab Exercise 1.3 Access Control</a>
 - <a href="https://youtube.com/embed/MdKzqrZ-EGA" target="_blank">Lab Exercise 1.3 Access Control</a>
