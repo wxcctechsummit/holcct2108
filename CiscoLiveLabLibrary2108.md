@@ -29,7 +29,7 @@ This intermediate level lab session is intended for Contact Center engineers and
 1. Recommended to review BRKCCT-1004 before this lab but not required
 2. Ensure that you have received your tenant login credentials and directions to make some test calls before starting the Lab
 
-**Quick Links**<br>
+## Quick Links 
 *Note: We've done our best to ensure links open in a new tab, but if it does not, just right click and select the open in new tab option*
 
 * <a href="https://portal.wxcc-us1.cisco.com/portal" target="_blank">Portal</a>
