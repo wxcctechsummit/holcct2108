@@ -51,12 +51,12 @@ We will also be creating two new reports (one for Call and one for agent) to cap
 9. Review the Analyzer URL for the report which shows the `tid` which is the Tenant ID and `rid` which is the report ID.  The tenant ID is unique to every tenant and very useful for troubleshooting or back end change requests.
 10. This concludes the first lab in Exercise Section 2
 
-# Exercise 2.2 Create Custom Report using Stock Reports  https://youtu.be/f-vsOu32tD4
+# Exercise 2.2 Create Custom Report using Stock Reports 
 
 <iframe width="1024" height="576" src="https://youtube.com/embed/f-vsOu32tD4?rel=0" title="Exercise 2.2 Create Custom Report using Stock Reports" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Section Information**
-- Copy a stock report to create a new report
+- Copy a stock report to create a new custom report
 - Create a new report to show the team performance for yesterday
 
 1. Using the search option, search for the word `team` and review the listed reports to find the best report to build from
@@ -64,10 +64,11 @@ We will also be creating two new reports (one for Call and one for agent) to cap
 3. Review the information captured in the stock report using the elipsis menu to view details about the report.  This will help you determine if this report will work to suit your needs
 4. Create a copy of this report and save it into your `Team Folder`
 5. Following the video instructions, make the recommended changes to the new report.
-> * [Make Changes to Team Details Direct Link](https://www.youtube.com/embed/aCGxNPmWvPw?start=180)
+> * [Make Changes to Team Details Direct Link](https://www.youtube.com/embed/aCGxNPmWvPw?start=153)
 6. Follow the video guide to make changes as suggested. `Note that in this report you may make any changes you wish since no future labs will use this report`  However, don't take too much time here if falling behind on time.
 7. `Save as` on this report into your personal folder
-8. Change the filter to ensure that no other team data is being shown on your report if needed.  
+8. Change the filter to ensure that no other team data is being shown on your report if needed.
+> * [Add a Filter](https://www.youtube.com/embed/aCGxNPmWvPw?start=259)
 9. Customize the field sizes by reducing the field header names as shown in the video
 10. Congratulations.  This completes Lab 2.  Proceed to Lab 3.
 
