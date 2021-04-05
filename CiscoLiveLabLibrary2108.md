@@ -107,9 +107,9 @@ This intermediate level lab session is intended for Contact Center engineers and
 **Full video links used in the lab instructions.  Video links are also available in the lab exercises.**
 
 ### Lab 1: Admin Portal Dashboards and Analyzer User Interface Videos
-1. [Lab Exercise 1.1 Dashboard Reports](https://youtu.be/Q4kf8dHN8x8)
-2. [Lab Exercise 1.2 Analyzer User Interface](https://youtu.be/4pGNHkd87Zs)
-3. [Lab Exercise 1.3 Access Control](https://youtu.be/MdKzqrZ-EGA)
+- [Lab Exercise 1.1 Dashboard Reports](https://youtu.be/Q4kf8dHN8x8)
+- [Lab Exercise 1.2 Analyzer User Interface](https://youtu.be/4pGNHkd87Zs)
+- [Lab Exercise 1.3 Access Control](https://youtu.be/MdKzqrZ-EGA)
 ### Lab 2: Stock Reports Videos
 1. [Lab Exercise 2.1 Execute Stock Reports](https://youtu.be/aCGxNPmWvPw)
 2. [Lab Exercise 2.2 : Create Custom Report using Stock Report](https://youtu.be/f-vsOu32tD4)
