@@ -70,3 +70,5 @@ This lab is designed to introduce you to the Agent Personal Statistics in Agent 
 <p align="center">
 <button name="button" onclick="https://user-images.githubusercontent.com/75790934/113780553-fe71f580-96f4-11eb-85c3-0fa7064794b5.gif">I finished the lab - Click me</button>
 </p>
+
+{% include button.html url="http://www.google.com" %}
