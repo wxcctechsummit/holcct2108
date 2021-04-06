@@ -82,6 +82,10 @@ This lab is designed to introduce you to the dashboards available in Analyzer.  
 10. Explore some options to edit and personalize this new dashboard like changing background colors
 11. This lab is complete, however, if you have time feel free to move to the Bonus Lab.
 
+## Next Lab is Lab 6: Bonus Lab
+> * [Analyzer Lab 6 Link](https://wxcctechsummit.github.io/holcct2108/livelabs/Lab6Analyzer.html)
+
+[Back to top](#cisco-live-holcct-2108-webex-contact-center-reporting---analyzer-deep-dive)
 
 
 
