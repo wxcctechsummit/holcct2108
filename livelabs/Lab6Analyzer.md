@@ -46,4 +46,6 @@ This lab is designed to introduce you to the dashboards available in Analyzer.  
 
 # Congratulations - Cisco Live HOLCCT-2108 Lab Complete!
 
+<p align="center">
 ![fireworks](https://user-images.githubusercontent.com/75790934/113780553-fe71f580-96f4-11eb-85c3-0fa7064794b5.gif)
+</p>
