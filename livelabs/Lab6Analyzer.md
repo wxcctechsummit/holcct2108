@@ -31,7 +31,8 @@ This lab is designed to introduce you to the Agent Personal Statistics in Agent 
 
 # Exercise 6.1 Personal Agent Statistics
 
-<iframe width="1024" height="576" src="https://youtube.com/embed/NBwnjKByJB4I?rel=0" title="Exercise 6.1 Agent Personal Statistics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1024" height="576" src="https://youtube.com/embed/NBwnjKByJB4?rel=0" title="Exercise 6.1 Agent Personal Statistics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Section Information
 - `Agent Personal Statistics (APS)` are available on the Agent Desktop
@@ -45,7 +46,7 @@ This lab is designed to introduce you to the Agent Personal Statistics in Agent 
 
 # Exercise 6.2 Threshold Alerting
 
-<iframe width="1024" height="576" src="https://youtube.com/embed/NBwnjKByJB4I?start=175" title="Exercise 6.1 Agent Personal Statistics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1024" height="576" src="https://youtube.com/embed/NBwnjKByJB4?start=175" title="Exercise 6.1 Agent Personal Statistics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Section Information
 - `Threshold` Alerting can be set for various values in reports
