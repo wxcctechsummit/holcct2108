@@ -34,7 +34,7 @@ Welcome to the Cisco Live Webex Contact Center Analyzer Reporting Deep Dive.  Th
 ## Session 1 - April 8
 
 | First     | Last       | Organization                 | Team Number | Agent Ext | Supervisor Login           | Password    |
-|-----------|------------|------------------------------|-------------|-----------|----------------------------|--------------------|
+|-----------|------------|------------------------------|-------------|-----------|----------------------------|:--------------------:|
 | Patrick   | Bond       | WORLD WIDE TECHNOLOGY INC    | Team-1      | 21081     | cladm1user@mailinator.com  | `check your email` |
 | Rob       | Fallon     | LASALLE BUSINESS SOLUTIONS   | Team-2      | 21082     | cladm2user@mailinator.com  | `check your email` |
 | Bradley   | Hacker     | RED RIVER TECHNOLOGY LLC     | Team-3      | 21083     | cladm3user@mailinator.com  | `check your email` |
