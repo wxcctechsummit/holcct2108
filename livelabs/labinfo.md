@@ -8,6 +8,11 @@ title: "Cisco Live Webex Contact Center Analyzer Lab Information"
 **Welcome to Cisco Live 2021 HOLCCT-2108 New Webex Contact Center Analyzer - Data and Analytics Deep Dive.**
 
 # Webex Contact Center Reporting - Analyzer
+# General Instructions
+
+Welcome to the Cisco Live Webex Contact Center Analyzer Reporting Deep Dive.  The above information will be used to create historical and real time data during the course of this instructor lead lab.
+- Use the Dial-in number to make calls into the system after logging in as an agent
+- User Facebook, Email, Chat and SMS to create new reporting contact information
 
 # Student Information
 ## Session 1 - April 8
@@ -63,8 +68,4 @@ Inbound Voice: 	+15084337864
 * [Analyzer](https://analyzer.wxcc-us1.cisco.com/analyzer/home)
 * [Agent Desktop](https://desktop.wxcc-us1.cisco.com)
 
-# General Instructions
-
-Welcome to the Cisco Live Webex Contact Center Analyzer Reporting Deep Dive.  The above information will be used to create historical and real time data during the course of this instructor lead lab.
-- Use the Dial-in number to make calls into the system after logging in as an agent
 
