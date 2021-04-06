@@ -43,5 +43,20 @@ This lab is designed to introduce you to the dashboards available in Analyzer.  
 3. Under Business Metrics, run the `Abandoned Contacts` dashboard.  This dashboard is able to be a mash-up dashboard using data from other systems like UCCE and UCCX.
 4. Under this dashboard there are several different types of data reports.  Take some time to familiarize yourself with them.
 5. Expand the `Customer Journey` dashboard and familiarize yourself with how this report makes use of mouse overs to track the different abandoned contacts
-6. 
-7. 
+6. Navigate back to the main dashboard directory and open a dashboard named `Contact Volume Historical Dashboard` under the Multimedia directory.
+> * <a href="https://youtube.com/embed/quuS5xrsmgI?start=201" target="_blank">Start at timestamp</a>
+7. Create a copy of this dashboard and edit to make some changes
+8. Remove the `Contact Volume` dashboard component
+9. Find the report created in Lab 4.2 called `4.2.1_CSR_QueueStatus` and drag that into the dashboard
+10. Save this report as `5.1_Contact_Volume_Queue_Dashboard` and run it
+11. This concludes this section.  Onto the next.
+
+# Exercise 5.1 Stock Dashboards
+
+<iframe width="1024" height="576" src="https://youtube.com/embed/quuS5xrsmgI?rel=0" title="Exercise 5.1 Stock Dashboards" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Section Information
+- Navigate some stock dashboards
+- Create a dashboard from a stock dashboard
+
+13. 
