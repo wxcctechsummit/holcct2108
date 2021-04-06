@@ -1,6 +1,9 @@
 ---
 title: "Cisco Live HOLCCT-2108 Lab Guide Library"
 ---
+## Labs Have Been Completed!  Congratulations!
+- Please be sure to complete the `Cisco Live Lab Survey`
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/75790934/113780553-fe71f580-96f4-11eb-85c3-0fa7064794b5.gif">
 </p>
