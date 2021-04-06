@@ -51,12 +51,14 @@ This lab is designed to introduce you to the dashboards available in Analyzer.  
 10. Save this report as `5.1_Contact_Volume_Queue_Dashboard` and run it
 11. This concludes this section.  Onto the next.
 
-# Exercise 5.1 Stock Dashboards
+# Exercise 5.2 Custom Dashboards
 
-<iframe width="1024" height="576" src="https://youtube.com/embed/quuS5xrsmgI?rel=0" title="Exercise 5.1 Stock Dashboards" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1024" height="576" src="https://youtube.com/embed/MokwdERAlgc?rel=0" title="Exercise 5.2 Custom Dashboards" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Section Information
-- Navigate some stock dashboards
-- Create a dashboard from a stock dashboard
+- Create a custom dashboard
+- Create a custom dashboard using previous lab reports
 
-13. 
+
+
+
