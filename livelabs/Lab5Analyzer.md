@@ -56,9 +56,11 @@ This lab is designed to introduce you to the dashboards available in Analyzer.  
 <iframe width="1024" height="576" src="https://youtube.com/embed/MokwdERAlgc?rel=0" title="Exercise 5.2 Custom Dashboards" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Section Information
-- Create a custom dashboard
-- Create a custom dashboard using previous lab reports
+- Create a custom dashboard called 5.2.1_NewReportDashboard
+- Create a custom dashboard using previous lab reports and call it 5.2.2_CL21HOLCCT2108Dashboard
 
+1. Navigate to the Dashboards section of Analyzer and `Create New` Dashboard
+2.  
 
 
 
