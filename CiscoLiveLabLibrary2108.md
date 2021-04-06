@@ -120,11 +120,12 @@ This intermediate level lab session is intended for Contact Center engineers and
 ### Lab 4: Advanced Insights Videos
 - <a href="https://youtube.com/embed/mIaUgAEjRHs" target="_blank">Exercise 4.1 - Using Formula and Filter</a>
 - <a href="https://youtube.com/embed/Poc7WdDdbEM" target="_blank">Exercise 4.2 - Enhanced Field Compound Visualizations</a>
-### Lab 5: Dashboards
-- <a href="https://youtube.com/embed/MdKzqrZ-EGA" target="_blank">Lab Exercise 1.3 Access Control</a>
-- <a href="https://youtube.com/embed/MdKzqrZ-EGA" target="_blank">Lab Exercise 1.3 Access Control</a>
-- [Lab 5: Dashboards](livelabs/Exercise5Analyzer.md) 
-- [Lab 6: Data Capabilities](livelabs/Exercise6Analyzer.md)
+### Lab 5: Dashboards Videos
+- <a href="https://youtube.com/embed/quuS5xrsmgI" target="_blank">Exercise 5.1 Stock Dashboards</a>
+- <a href="https://youtube.com/embed/MokwdERAlgc" target="_blank">Exercise 5.2 Creating Custom Dashboards</a>
+### Lab 6: Data Capabilities Video
+- <a href="https://youtube.com/embed/NBwnjKByJB4" target="_blank">Lab 6 Data Capabilities</a>
+
 
 # Lab Info Per User
 * [LabInfo](livelabs/labinfo.md)
