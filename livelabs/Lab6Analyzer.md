@@ -7,9 +7,9 @@
 
 
 # Table of Contents
-1. [Exercise 6.1 Personal Agent Statistics](#exercise-41-using-formulas-and-filters)
-2. [Exercise 6.2 Threshold Alerting](#exercise-42-enhanced-field-compound-visualization-and-drill-down)
-3. [Exercise 6.3 Scheduler](#exercise-42-enhanced-field-compound-visualization-and-drill-down)
+1. [Exercise 6.1 Personal Agent Statistics](#exercise-61-agent-personal-statistics)
+2. [Exercise 6.2 Threshold Alerting](#exercise-62-threshold-alerting)
+3. [Exercise 6.3 Scheduler](#exercise-63-scheduler)
 
 **Quick Links**
 
@@ -29,7 +29,7 @@ This lab is designed to introduce you to the Agent Personal Statistics in Agent 
 2. Admin or supervisor credential with Analytics access in user profile
 3. Make sure to make few test calls and answered by the agent the day you attempting this lab (to ensure we have some data to analyze)
 
-# Exercise 6.1 Personal Agent Statistics
+# Exercise 6.1 Agent Personal Statistics
 
 <iframe width="1024" height="576" src="https://youtube.com/embed/NBwnjKByJB4?rel=0" title="Exercise 6.1 Agent Personal Statistics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
