@@ -84,7 +84,7 @@ This lab is designed to introduce you to the Agent Personal Statistics in Agent 
 
 # Congratulations - Cisco Live HOLCCT-2108 Lab Complete!
 
-> * [Labs Complete Back to Main](https://wxcctechsummit.github.io/holcct2108/livelabs/finishedholcct2108.html)
+> * [Labs Complete Back to Main](https://wxcctechsummit.github.io/holcct2108/finishedholcct2108.html)
 
 [Back to top](#cisco-live-holcct-2108-webex-contact-center-reporting---analyzer-deep-dive)
 
