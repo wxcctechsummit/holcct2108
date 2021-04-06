@@ -7,8 +7,8 @@
 
 
 # Table of Contents
-1. [Exercise 5.1: Stock Dashboards](#exercise-41-using-formulas-and-filters)
-2. [Exercise 5.2: Custom Dashboards](#exercise-42-enhanced-field-compound-visualization-and-drill-down)
+1. [Exercise 5.1: Stock Dashboards](#exercise-51-stock-dashboards)
+2. [Exercise 5.2: Custom Dashboards](#exercise-52-custom-dashboards)
 
 **Quick Links**
 
