@@ -60,7 +60,29 @@ This lab is designed to introduce you to the dashboards available in Analyzer.  
 - Create a custom dashboard using previous lab reports and call it 5.2.2_CL21HOLCCT2108Dashboard
 
 1. Navigate to the Dashboards section of Analyzer and `Create New` Dashboard
-2.  
+2. Drag dashboards according to the video instruction to the work canvas and position to your liking
+3. When dashboard components have been arranged, you should have somthing similar to this
+
+![custom dashboard](https://user-images.githubusercontent.com/75790934/113778075-92da5900-96f1-11eb-9b05-3a5f86d24920.png)
+
+4. Save this report as `5.2.1_NewReportDashboard` under your team folder
+5. Run the report and notice that you can make changes to widget sizes but this will not save to the template
+6. Edit the new dashboard and make any sizing changes and save to see those changes every time
+7. Create a `new dashboard` for the next exercise
+> * <a href="https://youtube.com/embed/MokwdERAlgc?start=179" target="_blank">Start at timestamp</a>
+8. In this new dashboard you will be using several of the reports created earlier in this lab
+  - 4.2.1_CSR_QueueStatus
+  - 3.2_AAR_AgentState
+  - 3.3_CSR_ContactVolume
+  - 3.1_CSR_Contacts
+
+![5-2customdashboard](https://user-images.githubusercontent.com/75790934/113779194-f3b66100-96f2-11eb-8a22-21c1bf94b1a5.png)
+
+9. Save this report as `5.2.2_CL21HOLCCT2108Dashboard`
+10. Explore some options to edit and personalize this new dashboard like changing background colors
+11. This lab is complete, however, if you have time feel free to move to the Bonus Lab.
+
+
 
 
 
