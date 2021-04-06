@@ -3,12 +3,12 @@
 </p>
 
 # Cisco Live HOLCCT-2108 Webex Contact Center Reporting - Analyzer Deep Dive
-## Exercises 4.1 and 4.2
+## Exercises 5.1 and 5.2
 
 
 # Table of Contents
-1. [Exercise 4.1: Using Formula and Filter](#exercise-41-using-formulas-and-filters)
-2. [Exercise 4.2: Enhanced Field Compound Visualization and Drill-down](#exercise-42-enhanced-field-compound-visualization-and-drill-down)
+1. [Exercise 5.1: Stock Dashboards](#exercise-41-using-formulas-and-filters)
+2. [Exercise 5.2: Custom Dashboards](#exercise-42-enhanced-field-compound-visualization-and-drill-down)
 
 **Quick Links**
 
@@ -19,10 +19,29 @@
 
 ## Lab Objective
 
-This lab is designed to build upon previous labs where custom reports were created and saved.  Those reports will be used in this lab to further get simple, useful and actionalble data insights.  In this lab we will explore `Enhanced Fields`, `Heat Map view`, `Compound Visualizations`, and `Drill-down`
+This lab is designed to introduce you to the dashboards available in Analyzer.  Dashboards are available for Historical, Realtime and Business Metrics.  
 
 ### Pre-requisite
 
-1. All previous labs completed
+1. All previous labs completed is advisable but not required
 2. Admin or supervisor credential with Analytics access in user profile
 3. Make sure to make few test calls and answered by the agent the day you attempting this lab (to ensure we have some data to analyze)
+
+# Exercise 5.1 Stock Dashboards
+
+<iframe width="1024" height="576" src="https://youtube.com/embed/quuS5xrsmgI?rel=0" title="Exercise 5.1 Stock Dashboards" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Section Information
+- Navigate some stock dashboards
+- Create a dashboard from a stock dashboard
+
+1. Navigate the Analyzer directory structure and discover the `Dashboards` directory
+2. Dashboards are catagorized under the following types.  Historical, Realtime and Business Metrics.
+
+![dashboards](https://user-images.githubusercontent.com/75790934/113645373-60c2eb80-964c-11eb-939f-fbbcbcb71608.png)
+
+3. Under Business Metrics, run the `Abandoned Contacts` dashboard.  This dashboard is able to be a mash-up dashboard using data from other systems like UCCE and UCCX.
+4. Under this dashboard there are several different types of data reports.  Take some time to familiarize yourself with them.
+5. Expand the `Customer Journey` dashboard and familiarize yourself with how this report makes use of mouse overs to track the different abandoned contacts
+6. 
+7. 
