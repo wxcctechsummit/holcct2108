@@ -87,6 +87,7 @@ This lab is designed to introduce you to the dashboards available in Analyzer.  
 
 [Back to top](#cisco-live-holcct-2108-webex-contact-center-reporting---analyzer-deep-dive)
 
-
+## No Time for Bonus Lab?
+> * [Primary Labs Complete Back to Main](https://wxcctechsummit.github.io/holcct2108/finishedholcct2108.html)
 
 
