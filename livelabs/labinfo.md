@@ -5,30 +5,9 @@ title: "Cisco Live Webex Contact Center Analyzer Lab Information"
   <img src="https://ayankovs-ccp-s3.s3.eu-west-3.amazonaws.com/CiscoLiveLogo.jpg">
 </p>
 
-![Banner](../images/wxccbanner.jpg)
-
 **Welcome to Cisco Live 2021 HOLCCT-2108 New Webex Contact Center Analyzer - Data and Analytics Deep Dive.**
 
 # Webex Contact Center Reporting - Analyzer
-
-## Dial-in information
-Inbound Voice: 	+15084337864
-
-## Multimedia information
-- Chat using Facebook Messenger:  [Facebook Demo](https://www.facebook.com/Wxcc-Demo-Page-107841834739318)
-- Email requests for assistance to email: 	wxccanalyzer@gmail.com
-- Send text requests to inbound SMS: 	+12029824690
-
-**Quick Links**
-
-* [Portal](https://portal.wxcc-us1.cisco.com/portal)
-* [Analyzer](https://analyzer.wxcc-us1.cisco.com/analyzer/home)
-* [Agent Desktop](https://desktop.wxcc-us1.cisco.com)
-
-# General Instructions
-
-Welcome to the Cisco Live Webex Contact Center Analyzer Reporting Deep Dive.  The above information will be used to create historical and real time data during the course of this instructor lead lab.
-- Use the Dial-in number to make calls into the system after logging in as an agent
 
 # Student Information
 ## Session 1 - April 8
@@ -69,3 +48,23 @@ Welcome to the Cisco Live Webex Contact Center Analyzer Reporting Deep Dive.  Th
 | neeraj      | suriyal    | ORANGE BUSINESS SERVICES          | Team-28 | 210828 | cladm28user@mailinator.com | `check your email` |
 | Todd        | Thornton   | CALIFORNIA HIGHWAY PATROL         | Team-29 | 210829 | cladm29user@mailinator.com | `check your email` |
 | Yuhua       | Zhu        | ALBERTA HEALTH SERVICES           | Team-30 | 210830 | cladm30user@mailinator.com | `check your email` |
+
+## Dial-in information
+Inbound Voice: 	+15084337864
+
+## Multimedia information
+- Chat using Facebook Messenger:  [Facebook Demo](https://www.facebook.com/Wxcc-Demo-Page-107841834739318)
+- Email requests for assistance to email: 	wxccanalyzer@gmail.com
+- Send text requests to inbound SMS: 	+12029824690
+
+**Quick Links**
+
+* [Portal](https://portal.wxcc-us1.cisco.com/portal)
+* [Analyzer](https://analyzer.wxcc-us1.cisco.com/analyzer/home)
+* [Agent Desktop](https://desktop.wxcc-us1.cisco.com)
+
+# General Instructions
+
+Welcome to the Cisco Live Webex Contact Center Analyzer Reporting Deep Dive.  The above information will be used to create historical and real time data during the course of this instructor lead lab.
+- Use the Dial-in number to make calls into the system after logging in as an agent
+
