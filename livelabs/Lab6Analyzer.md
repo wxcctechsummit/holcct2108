@@ -21,7 +21,7 @@
 ## Lab Objective
 
 This lab is designed to introduce you to the Agent Personal Statistics in Agent Desktop as well as setting Threshold Alerts and Scheduling Reports. 
-`This lab was created as a single video with all listed elements.  Quick links are listed to jump to the specific sections`
+**This lab was created as a single video with all listed elements.  Section videos will jump to the video position for the section**
 
 ### Pre-requisite
 
@@ -46,7 +46,7 @@ This lab is designed to introduce you to the Agent Personal Statistics in Agent 
 
 # Exercise 6.2 Threshold Alerting
 
-<iframe width="1024" height="576" src="https://youtube.com/embed/NBwnjKByJB4?start=175" title="Exercise 6.1 Agent Personal Statistics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1024" height="576" src="https://youtube.com/embed/NBwnjKByJB4?start=172" title="Exercise 6.1 Agent Personal Statistics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Section Information
 - `Threshold` Alerting can be set for various values in reports
@@ -63,4 +63,9 @@ This lab is designed to introduce you to the Agent Personal Statistics in Agent 
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/75790934/113780553-fe71f580-96f4-11eb-85c3-0fa7064794b5.gif">
+</p>
+
+
+<p align="center">
+<button name="button" onclick="https://user-images.githubusercontent.com/75790934/113780553-fe71f580-96f4-11eb-85c3-0fa7064794b5.gif">I finished the lab - Click me</button>
 </p>
