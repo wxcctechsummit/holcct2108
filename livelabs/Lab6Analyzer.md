@@ -28,10 +28,22 @@ This lab is designed to introduce you to the dashboards available in Analyzer.  
 2. Admin or supervisor credential with Analytics access in user profile
 3. Make sure to make few test calls and answered by the agent the day you attempting this lab (to ensure we have some data to analyze)
 
-# Exercise 5.1 Stock Dashboards
+# Exercise 6.1 Personal Agent Statistics
 
 <iframe width="1024" height="576" src="https://youtube.com/embed/quuS5xrsmgI?rel=0" title="Exercise 5.1 Stock Dashboards" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+# Exercise 6.2 Threshold Alerting
+
+
+# Exercise 6.3 Scheduler
+
 
 ## Section Information
 - Navigate some stock dashboards
 - Create a dashboard from a stock dashboard
+
+# Congratulations - Cisco Live HOLCCT-2108 Lab Complete!
+
+![fireworks](https://user-images.githubusercontent.com/75790934/113780553-fe71f580-96f4-11eb-85c3-0fa7064794b5.gif)
