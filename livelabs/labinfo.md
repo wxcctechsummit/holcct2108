@@ -53,7 +53,7 @@ Welcome to the Cisco Live Webex Contact Center Analyzer Reporting Deep Dive.  Th
 ## Session 2 - April 15
 
 | JASON       | STEWART    | INSIGHT NORTH AMERICA INC         | Team-15 | 210815 | cladm15user@mailinator.com | `check your email` |
-|-------------|------------|-----------------------------------|---------|--------|----------------------------|-------------|
+|-------------|------------|-----------------------------------|---------|--------|----------------------------|:-----------------:|
 | Karen       | Brady      | EIR GROUP HQ                      | Team-16 | 210816 | cladm16user@mailinator.com | `check your email` |
 | Jeremy      | Chapman    | FORSYTHE SOLUTIONS GROUP          | Team-17 | 210817 | cladm17user@mailinator.com | `check your email` |
 | Dallas      | Cook       | SALT LAKE COUNTY MIS              | Team-18 | 210818 | cladm18user@mailinator.com | `check your email` |
