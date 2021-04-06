@@ -20,7 +20,8 @@
 
 ## Lab Objective
 
-This lab is designed to introduce you to the dashboards available in Analyzer.  Dashboards are available for Historical, Realtime and Business Metrics.  
+This lab is designed to introduce you to the Agent Personal Statistics in Agent Desktop as well as setting Threshold Alerts and Scheduling Reports. 
+`This lab was created as a single video with all listed elements.  Quick links are listed to jump to the specific sections`
 
 ### Pre-requisite
 
@@ -30,11 +31,24 @@ This lab is designed to introduce you to the dashboards available in Analyzer.  
 
 # Exercise 6.1 Personal Agent Statistics
 
-<iframe width="1024" height="576" src="https://youtube.com/embed/quuS5xrsmgI?rel=0" title="Exercise 5.1 Stock Dashboards" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1024" height="576" src="https://youtube.com/embed/NBwnjKByJB4I?rel=0" title="Exercise 6.1 Agent Personal Statistics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Section Information
+- `Agent Personal Statistics (APS)` are available on the Agent Desktop
+- This section will show various features available with the APS on Agent Desktop
 
+1. If not logged in to the Agent Desktop, open a new window and login to look at the current Agent Performance Statistics (APS)
+2. Navigate through the available APS reports available in the Agent Desktop
+3. See what options are available within the stock reports (shown in video)
+4. Change the views by `filtering` or changing report `interval` periods
+5. This exercise is designed to familiarize you with these options 
 
 # Exercise 6.2 Threshold Alerting
+
+<iframe width="1024" height="576" src="https://youtube.com/embed/NBwnjKByJB4I?start=175" title="Exercise 6.1 Agent Personal Statistics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Section Information
+- `Threshold` Alerting can be set for various values in reports
 
 
 # Exercise 6.3 Scheduler
