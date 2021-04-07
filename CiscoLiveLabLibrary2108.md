@@ -45,14 +45,14 @@ This intermediate level lab session is intended for Contact Center engineers and
 
 ![Banner](images/analyzerlabsetup.jpg)
 
-# Connecting Instructions
+# Testing Instructions (To generate Contact data)
 ## Inbound Voice
 **Dial +15084337864**
 * If international calling please use the US code
 
  1. `Voice calls` hit a common Entry Point and answers with a Flow enabled for Google CCAI.
-	* Tell the auto attendant you want to speak to an agent
-	* Enter your Student Number.  The number matches the number in your login ID.
+	* Tell the auto attendant you want to speak to an agent  _(Sample:Say "Agent")_
+	* Enter your Student Number.  The number matches the number in your login ID. _(Sample: 10#)_
 	* Calls will route to your own queue so ensure your agent is logged in and your agent will get the call
 2. `Omnichannel` contacts will all route to a common queue
 	* Help your classmates out by responding to their emails, texts, facebook and SMS queries.
