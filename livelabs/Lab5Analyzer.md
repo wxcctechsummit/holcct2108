@@ -28,6 +28,7 @@ This lab is designed to introduce you to the dashboards available in Analyzer.  
 3. Make sure to make few test calls and answered by the agent the day you attempting this lab (to ensure we have some data to analyze)
 
 # Exercise 5.1 Stock Dashboards
+![Banner](https://user-images.githubusercontent.com/81705459/113801810-2f672000-971f-11eb-9f4d-cfa9bc9c72cb.jpg)
 
 <iframe width="1024" height="576" src="https://youtube.com/embed/quuS5xrsmgI?rel=0" title="Exercise 5.1 Stock Dashboards" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -52,6 +53,7 @@ This lab is designed to introduce you to the dashboards available in Analyzer.  
 11. This concludes this section.  Onto the next.
 
 # Exercise 5.2 Custom Dashboards
+![Banner](https://user-images.githubusercontent.com/81705459/113801857-4574e080-971f-11eb-990c-80a1c89ef2ef.jpg)
 
 <iframe width="1024" height="576" src="https://youtube.com/embed/MokwdERAlgc?rel=0" title="Exercise 5.2 Custom Dashboards" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
