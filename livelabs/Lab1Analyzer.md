@@ -23,6 +23,8 @@ This lab is designed to give you basic understanding of Analyzer, user interface
 
 We will also be creating two new reports (one for Call and one for agent) to capture relevent information and then will use these reports in a dashboard, while doing this we will learns about capabilities and features you can use to capture the required insights.
 
+![Banner](images/lab-1.jpg)
+
 ## Pre-requisite
 
 1. Admin or supervisor credential with Analytics access in user profile
