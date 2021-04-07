@@ -54,6 +54,14 @@ This intermediate level lab session is intended for Contact Center engineers and
 	* Tell the auto attendant you want to speak to an agent  _(Sample:Say "Agent")_
 	* Enter your Student Number.  The number matches the number in your login ID. _(Sample: 10#)_
 	* Calls will route to your own queue so ensure your agent is logged in and your agent will get the call
+-Want to Try Callback and check reports?
+ * Make your agent not avaliable and let call go to queue
+ * After few seconds wait you will get an option to press 1 for Callback and 2 to stay in Queue
+ * Press 1, call will disconnect
+ * Make your agent Avaliable, you will see a callback!!
+  
+
+
 2. `Omnichannel` contacts will all route to a common queue
 	* Help your classmates out by responding to their emails, texts, facebook and SMS queries.
 
