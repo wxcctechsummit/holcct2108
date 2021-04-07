@@ -22,6 +22,10 @@ This lab is designed to give you basic understanding of Analyzer, user interface
 
 We will also be creating two new reports (one for Call and one for agent) to capture relevent information and then will use these reports in a dashboard, while doing this we will learns about capabilities and features you can use to capture the required insights.
 
+![Banner](https://user-images.githubusercontent.com/81705459/113798273-7dc4f080-9718-11eb-81a7-fc3798eedb65.jpg)
+
+![Banner](https://user-images.githubusercontent.com/81705459/113798282-80bfe100-9718-11eb-9661-56ae7ccdaa3f.jpg)
+
 ## Pre-requisite
 
 1. All previous labs completed
