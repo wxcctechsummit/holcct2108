@@ -30,6 +30,9 @@ This lab is designed to build upon previous labs where custom reports were creat
 
 # Exercise 4.1 Using Formulas and Filters
 
+![Banner](https://user-images.githubusercontent.com/81705459/113798853-9681d600-9719-11eb-8364-aa2736ab4539.jpg)
+
+
 <iframe width="1024" height="576" src="https://youtube.com/embed/mIaUgAEjRHs?rel=0" title="Exercise 4.1 Using Formulas and Filters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Section Information
@@ -66,6 +69,7 @@ This lab is designed to build upon previous labs where custom reports were creat
 
 
 # Exercise 4.2 Enhanced Field Compound Visualization and Drill-down
+![Banner](https://user-images.githubusercontent.com/81705459/113798885-a1d50180-9719-11eb-9299-5c235fff2d4a.jpg)
 
 <iframe width="1024" height="576" src="https://youtube.com/embed/Poc7WdDdbEM?rel=0" title="Exercise 4.2 Enhanced Field Compound Visualization and Drill-down" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
