@@ -22,6 +22,8 @@
 
 This lab is designed to introduce you to the Agent Personal Statistics in Agent Desktop as well as setting Threshold Alerts and Scheduling Reports. 
 **This lab was created as a single video with all listed elements.  Section videos will jump to the video position for the section**
+![Banner](https://user-images.githubusercontent.com/81705459/113801957-79e89c80-971f-11eb-8080-db98d1e0fce7.jpg)
+
 
 ### Pre-requisite
 
