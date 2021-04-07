@@ -22,14 +22,17 @@ title: "Cisco Live HOLCCT-2108 Lab Guide Library"
 5. [Lab Video Links](#lab-video-links)
 
 ## Purpose and Scope
-This intermediate level lab session is intended for Contact Center engineers and Business Managers/Supervisors with prior Contact Center experience. No previous exposure to the product is required. Get all knowledge to…... This lab covers all aspects of, Cisco's native-cloud Webex Contact Center Reporting from basic UI to Advanced Visualization and Data capabilities
+This intermediate level lab session is intended for Contact Center engineers and Business Managers/Supervisors with prior Contact Center experience. No previous exposure to the product is required. This lab covers all aspects of, Cisco's native-cloud Webex Contact Center Reporting from basic User interface to Advanced Visualization, Dashboards and Data capabilities.
 
 ## Pre-requisite
 
-1. Recommended to review BRKCCT-1004 before this lab but not required
-2. Ensure that you have received your tenant login credentials and directions to make some test calls before starting the Lab
+1. Ensure that you have received your tenant login credentials and directions to make some test calls before starting the Lab
+2. You are able to login into Admin Portal, Analyzer, Agent Desktop and Webex Calling Client
+3. Clear your browser cache before the Lab, if you were attending other WxCC Lab's or logged-in into any WxCC tenant earlier (or use browser Incognito mode)
+4. If using Webex Calling Client, please verify below setting
+ Calling App > File > Settings > Country > do not select Europe. Select North America > save 
 
-## Quick Links 
+## Quick Links
 *Note: We've done our best to ensure links open in a new tab, but if it does not, just right click and select the open in new tab option*
 
 * <a href="https://portal.wxcc-us1.cisco.com/portal" target="_blank">Portal</a>
