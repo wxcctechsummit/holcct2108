@@ -44,6 +44,8 @@ We will also be creating two new reports (one for Call and one for agent) to cap
 
 1. In this lab, start in Analyzer.  If you are not in Analyzer, please navigate to the Analyzer home page
 2. Go to `Home --> Visualization`
+![Banner](https://user-images.githubusercontent.com/81705459/113799254-596a1380-971a-11eb-8337-05ca89a8202a.jpg)
+
 3. Use the search option and search for `contact` finding the `Contact Details in Queue` report
 4. Run the report by either `double click` or using the elipsis menu and choosing `Run`
 5. Review the report information and click on the `hamburger` or expand option at the top left to see `Data Summary` and `Details` about the report
