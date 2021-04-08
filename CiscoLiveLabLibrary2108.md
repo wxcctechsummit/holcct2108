@@ -29,8 +29,14 @@ This intermediate level lab session is intended for Contact Center engineers and
 1. Ensure that you have received your tenant login credentials and directions to make some test calls before starting the Lab
 2. You are able to login into Admin Portal, Analyzer, Agent Desktop and Webex Calling Client
 3. Clear your browser cache before the Lab, if you were attending other WxCC Lab's or logged-in into any WxCC tenant earlier (or use browser Incognito mode)
-4. If using Webex Calling Client, please verify below setting
- Calling App > File > Settings > Country > do not select Europe. Select North America > save 
+
+## If using Webex Calling Client, please verify below setting
+ 1. Verify Webex Calling PC App Installation
+> **Participants can download and install the WebEx Calling App for Agents, Admins or Supervisors and make on-net calls.**
+
+**[Webex Calling PC APP - Download HERE !](https://cisco.app.box.com/s/fcbh0abcsruf5qxp99tj31ksx1bf2mh5){:target="_blank"}**
+
+ 2. Calling App > File > Settings > Country > do not select Europe. Select North America > save 
 
 ## Quick Links
 *Note: We've done our best to ensure links open in a new tab, but if it does not, just right click and select the open in new tab option*
