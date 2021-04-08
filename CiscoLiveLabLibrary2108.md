@@ -32,11 +32,11 @@ This intermediate level lab session is intended for Contact Center engineers and
 
 ## If using Webex Calling Client, please verify below setting
  1. Verify Webex Calling PC App Installation
-> **Participants can download and install the WebEx Calling App for Agents, Admins or Supervisors and make on-net calls.**
+ - **Participants can download and install the WebEx Calling App for Agents, Admins or Supervisors and make on-net calls.**
 
 **[Webex Calling PC APP - Download HERE !](https://cisco.app.box.com/s/fcbh0abcsruf5qxp99tj31ksx1bf2mh5){:target="_blank"}**
 
- 2. Calling App > File > Settings > Country > do not select Europe. Select North America > save 
+ - Calling App > File > Settings > Country > do not select Europe. Select North America > save 
 
 ## Quick Links
 *Note: We've done our best to ensure links open in a new tab, but if it does not, just right click and select the open in new tab option*
