@@ -78,7 +78,7 @@ All `Omnichannel` contacts will all route to a common queue
 
 
 ## Back to Main Page
-* [Main Page](../CiscoLiveLabLibrary2108.md)
+* [Main Page](/CiscoLiveLabLibrary2108.md)
 
 [Back to top](#instructions-for-generating-data)
 
