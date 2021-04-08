@@ -10,6 +10,9 @@ Use these instructions to generate data into your tenant.  This should take no m
 
 ## All Interactions Require Agent Desktop Logged in and **Available**
 
+* <a href="https://portal.wxcc-us1.cisco.com/portal" target="_blank">Portal</a>
+* <a href="https://analyzer.wxcc-us1.cisco.com/analyzer/home" target="_blank">Analyzer</a>
+* <a href="https://desktop.wxcc-us1.cisco.com" target="_blank">Agent Desktop</a>
 
 ### Inbound Voice
 **Dial +1 508-433-7864**
