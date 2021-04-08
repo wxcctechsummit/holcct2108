@@ -61,8 +61,8 @@ We will also be creating two new reports (one for Call and one for agent) to cap
 4. Select the `Visualization` icon to navigate to the Visualization repository
 > * <a href="https://www.youtube.com/embed/4pGNHkd87Zs?start=72" target="_blank">Visualization</a>
 5. Use the `Search` box to find specific or groups of reports
-6. Report information on card 2:46
-7. Set preferred view characteristics 3:40
+6. Report information on card <a href="https://www.youtube.com/embed/4pGNHkd87Zs?start=166" target="_blank">Timeslot 2:46</a>
+8. Set preferred view characteristics <a href="https://www.youtube.com/embed/4pGNHkd87Zs?start=220" target="_blank">Timeslot 3:40</a>
 
 # Exercise 1.3 Access Control
 
