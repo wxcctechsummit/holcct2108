@@ -12,14 +12,10 @@ title: "Cisco Live HOLCCT-2108 Lab Guide Library"
 # Table of Contents
 1. [Webex Contact Center Quick Links](#quick-links)
 2. [Analyzer Lab Configuration Diagram](#analyzer-lab-configuration)
-3. [Connecting Instructions](#connecting-instructions)
-	* [Inbound Voice](#inbound-voice)
-	* [Facebook Chats](#facebook-chats)
-	* [Email Assistance](#email-assistance)
-	* [Chat using WxCC Chat Widget](#chat-using-wxcc-chat-widget)
-	* [Inbound SMS](#inbound-sms)
-4. [Lab Schedule](#lab-schedule)
-5. [Lab Video Links](#lab-video-links)
+3. [Lab Pod User Info](#lab-info-per-user)
+4. [Connecting and Testing Instructions](#testing-instructions-to-create-data)
+5. [Lab Schedule](#lab-schedule)
+6. [Lab Video Links](#lab-video-links)
 
 ## Purpose and Scope
 This intermediate level lab session is intended for Contact Center engineers and Business Managers/Supervisors with prior Contact Center experience. No previous exposure to the product is required. This lab covers all aspects of, Cisco's native-cloud Webex Contact Center Reporting from basic User interface to Advanced Visualization, Dashboards and Data capabilities.
@@ -50,8 +46,10 @@ This intermediate level lab session is intended for Contact Center engineers and
 
 ![Banner](images/analyzerlabsetup.jpg)
 
-# Testing Instructions (To generate Contact data)
+# Lab Info Per User
+* [LabInfo](livelabs/labinfo.md)
 
+# Testing Instructions to Create Data
 * [Generate Contact Data](/createdata.md)
 
 
@@ -90,8 +88,7 @@ This intermediate level lab session is intended for Contact Center engineers and
 - <a href="https://youtube.com/embed/NBwnjKByJB4" target="_blank">Lab 6 Data Capabilities</a>
 
 
-# Lab Info Per User
-* [LabInfo](livelabs/labinfo.md)
+
 
 [Back to top](#welcome-to-cisco-live-2021-holcct-2108-new-webex-contact-center-analyzer---data-and-analytics-deep-dive)
 
