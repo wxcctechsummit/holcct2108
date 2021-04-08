@@ -70,7 +70,7 @@ All `Omnichannel` contacts will all route to a common queue
 7. Respond to chats to help your classmates out
 
 ### Inbound SMS
-1. Text to `+12029824690`
+1. Text to `+1 202-982-4690`
 2. If any agents are available, the SMS will get routed.
 3. If no agents are available, you will not get a response
 
@@ -78,7 +78,7 @@ All `Omnichannel` contacts will all route to a common queue
 
 
 ## Back to Main Page
-* [Main Page](livelabs/labinfo.md)
+* [Main Page](../CiscoLiveLabLibrary2108.md)
 
 [Back to top](#instructions-for-generating-data)
 
