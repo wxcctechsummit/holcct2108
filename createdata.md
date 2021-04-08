@@ -27,8 +27,8 @@ Use these instructions to generate data into your tenant.  This should take no m
 5. Make a few more test calls just to generate some data
   
 ### Omnichannel Contacts
-`Omnichannel` contacts will all route to a common queue
-	- Help your classmates out by responding to their emails, texts, facebook and SMS queries.
+All `Omnichannel` contacts will all route to a common queue
+* Help your classmates out by responding to their emails, texts, facebook and SMS queries.
 
 ### Facebook Chats
 1. Use the following Link: <a href="https://www.facebook.com/Wxcc-Demo-Page-107841834739318" target="_blank">Facebook</a>
