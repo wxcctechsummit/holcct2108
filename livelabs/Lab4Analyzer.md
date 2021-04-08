@@ -43,8 +43,8 @@ This lab is designed to build upon previous labs where custom reports were creat
 2. On the Row Segment set Final Queue Name.  `Instructions are also listed on screen in the videos`
 3. Drag Connected Count to `Profile Variables` 
 4. Drag Contact Session ID to Profile Variables and set a `filter` here for calls that are Parked
-5. Drag Realtime Contact Timestamp to `Profile Variables` and set for the `Minimum Value of`
-6. Right click and `create a new formula` on the Realtime Contact Timestamp
+5. Drag Realtime Update Timestamp to `Profile Variables` and set for the `Minimum Value of`
+6. Right click and `create a new formula` on the Realtime Update Timestamp
 7. The new formula should be named LongestDuration and the expression should be `Current Timestamp` - `Minimum Realtime Update Timestamp`
 
 ![NewFormulalab4-1](https://user-images.githubusercontent.com/75790934/113608997-dad57f00-9610-11eb-8b61-427d0b93a00f.png)
