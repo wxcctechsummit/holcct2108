@@ -12,7 +12,7 @@ title: "Cisco Live HOLCCT-2108 Lab Guide Library"
 # Table of Contents
 1. [Webex Contact Center Quick Links](#quick-links)
 2. [Analyzer Lab Configuration Diagram](#analyzer-lab-configuration)
-3. [Lab Pod User Info](#lab-info-per-user){:target="_blank"}
+3. [Lab Pod User Info](#lab-info-per-user)
 4. [Testing Instructions to Create Data](#testing-instructions-to-create-data)
 5. [Lab Schedule](#lab-schedule)
 6. [Lab Video Links](#lab-video-links)
