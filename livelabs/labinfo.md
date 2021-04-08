@@ -54,23 +54,15 @@ Welcome to the Cisco Live Webex Contact Center Analyzer Reporting Deep Dive.  Th
 | Todd        | Thornton   | CALIFORNIA HIGHWAY PATROL         | Team-29 | 210829 | cladm29user@mailinator.com | `check your email` |
 | Yuhua       | Zhu        | ALBERTA HEALTH SERVICES           | Team-30 | 210830 | cladm30user@mailinator.com | `check your email` |
 
-## Dial-in information
-Inbound Voice: 	+15084337864
 
-## Multimedia information
-- Chat using Facebook Messenger:  [Facebook Demo](https://www.facebook.com/Wxcc-Demo-Page-107841834739318)
-- Email requests for assistance to email: 	wxccanalyzer@gmail.com
-- Send text requests to inbound SMS: 	+12029824690
 
 **Quick Links**
-
-* [Portal](https://portal.wxcc-us1.cisco.com/portal)
-* [Analyzer](https://analyzer.wxcc-us1.cisco.com/analyzer/home)
-* [Agent Desktop](https://desktop.wxcc-us1.cisco.com)
-
+* <a href="https://portal.wxcc-us1.cisco.com/portal" target="_blank">Portal</a>
+* <a href="https://analyzer.wxcc-us1.cisco.com/analyzer/home" target="_blank">Analyzer</a>
+* <a href="https://desktop.wxcc-us1.cisco.com" target="_blank">Agent Desktop</a>
 
 ## Back to Main Page
-* [Back to Main](/CiscoLiveLabLibrary2108.md)
+* [Back to Main](../CiscoLiveLabLibrary2108.md)
 
 
 
