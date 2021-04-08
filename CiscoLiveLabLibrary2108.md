@@ -51,62 +51,8 @@ This intermediate level lab session is intended for Contact Center engineers and
 ![Banner](images/analyzerlabsetup.jpg)
 
 # Testing Instructions (To generate Contact data)
-## Inbound Voice
-**Dial +15084337864**
-* If international calling please use the US code
 
- 1. `Voice calls` hit a common Entry Point and answers with a Flow enabled for Google CCAI.
-	* Tell the auto attendant you want to speak to an agent  _(Sample:Say "Agent")_
-	* Enter your Student Number.  The number matches the number in your login ID. _(Sample: 10#)_
-	* Calls will route to your own queue so ensure your agent is logged in and your agent will get the call
-	* Want to Try Callback and check reports?
-	* Make your agent not avaliable and let call go to queue
-	* After few seconds wait you will get an option to press 1 for Callback and 2 to stay in Queue
-	* Press 1, call will disconnect
-	* Make your agent Avaliable, you will see a callback!!
-  
-
-2. `Omnichannel` contacts will all route to a common queue
-	* Help your classmates out by responding to their emails, texts, facebook and SMS queries.
-
-## Facebook Chats
-1. Use the following Link: <a href="https://www.facebook.com/Wxcc-Demo-Page-107841834739318" target="_blank">Facebook</a>
-
-## Email Assistance
-1. Use your email client and send to:  `wxccanalyzer@gmail.com`
-
-## Chat using WxCC Chat Widget  
-1. Navigate to a Java Script editor like <a href="https://js.do/" target="_blank">JS.DO</a>
-2. Insert the following code block into the Java Editor, on the left side
-```
-<script>
-    //Name of the Customer Support Template: CL2108lab_Chat
-    //Name of the Organisation: CL_HOLCCT2108
-      (function(document, script) {
-      var bubbleScript = document.createElement(script);
-      e = document.getElementsByTagName(script)[0];
-      bubbleScript.async = true;
-      bubbleScript.CiscoAppId =  'cisco-chat-bubble-app';
-      bubbleScript.appPrefix = '';
-      bubbleScript.DC = 'produs1.ciscoccservice.com';
-      bubbleScript.orgId = '85d74f70-1fd5-4744-91f2-042ea361ca03';
-      bubbleScript.templateId = '424807d0-91bf-11eb-96d7-e33c5a6b0997';
-      bubbleScript.src = 'https://bubble.produs1.ciscoccservice.com/bubble.js';
-      bubbleScript.type = 'text/javascript';
-      bubbleScript.setAttribute('charset', 'utf-8');
-      e.parentNode.insertBefore(bubbleScript, e);
-      })(document, 'script');
-    </script>
-```
-3. Once this is pasted, click the `Run Code` button at the top
-4. Look on the **Lower Right Side** for the `Chat Bubble` and click that to start a Chat session
-5. Enter your Name, Email and Reason and start the Chat
-6. When BOT responds, you can use "Agent" as the key word to escalate the call to the agent
-
-## Inbound SMS
-1. Text to `+12029824690`
-2. If any agents are available, the SMS will get routed.
-3. If no agents are available, you will not get a response
+* [Generate Contact Data](/createdata.md)
 
 
 ## Lab Schedule
