@@ -1,4 +1,4 @@
-# Instructions for Generating Data
+
 Use these instructions to generate data into your tenant.  This should take no more than about 10 minutes and will only generate a little data for you to use during the course of the lab.
 
 ## Use the sections below to 
