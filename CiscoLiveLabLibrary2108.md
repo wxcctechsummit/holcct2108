@@ -10,12 +10,12 @@ title: "Cisco Live HOLCCT-2108 Lab Guide Library"
 ### Welcome to Cisco Live 2021 HOLCCT-2108 New Webex Contact Center Analyzer - Data and Analytics Deep Dive  
 
 # Table of Contents
-1. [Webex Contact Center Quick Links](#quick-links)
-2. [Analyzer Lab Configuration Diagram](#analyzer-lab-configuration)
-3. [Lab Pod User Info](#lab-info-per-user)
-4. [Testing Instructions to Create Data](#testing-instructions-to-create-data)
-5. [Lab Schedule](#lab-schedule)
-6. [Lab Video Links](#lab-video-links)
+1. [Webex Contact Center Quick Links](#quick-links){:target="_blank"}
+2. [Analyzer Lab Configuration Diagram](#analyzer-lab-configuration){:target="_blank"}
+3. [Lab Pod User Info](#lab-info-per-user){:target="_blank"}
+4. [Testing Instructions to Create Data](#testing-instructions-to-create-data){:target="_blank"}
+5. [Lab Schedule](#lab-schedule){:target="_blank"}
+6. [Lab Video Links](#lab-video-links){:target="_blank"}
 
 ## Purpose and Scope
 This intermediate level lab session is intended for Contact Center engineers and Business Managers/Supervisors with prior Contact Center experience. No previous exposure to the product is required. This lab covers all aspects of, Cisco's native-cloud Webex Contact Center Reporting from basic User interface to Advanced Visualization, Dashboards and Data capabilities.
@@ -47,22 +47,22 @@ This intermediate level lab session is intended for Contact Center engineers and
 ![Banner](images/analyzerlabsetup.jpg)
 
 # Lab Info Per User
-* [LabInfo](livelabs/labinfo.md)
+* [LabInfo](livelabs/labinfo.md){:target="_blank"}
 
 # Testing Instructions to Create Data
-* [Generate Contact Data](/createdata.md)
+* [Generate Contact Data](/createdata.md){:target="_blank"}
 
 
 ## Lab Schedule
 
 | Duration | Session | Corresponding `Lab Guide` |
 | ---- | ------- | ----------------- |
-| 30 min | Admin Portal Dashboards and Analyzer User Interface |  [Lab 1: Admin Portal Dashboards and Analyzer User Interface](livelabs/Lab1Analyzer.md) |
-| 30 min | Stock Reports | [Lab 2: Stock Reports](livelabs/Lab2Analyzer.md) |
-| 30 min | Custom Visualizations| [Lab 3: Custom Visualizations](livelabs/Lab3Analyzer.md) |
-| 45 min |Advanced Insight Functionalities| [Lab 4: Advanced Insight Functionalities](livelabs/Lab4Analyzer.md) |
-| 20 min | Dashboards | [Lab 5: Dashboards](livelabs/Lab5Analyzer.md) |
-| 20 min | BONUS LAB: Data Capabilities | [Lab 6: Data Capabilities](livelabs/Lab6Analyzer.md) |
+| 30 min | Admin Portal Dashboards and Analyzer User Interface |  [Lab 1: Admin Portal Dashboards and Analyzer User Interface](livelabs/Lab1Analyzer.md){:target="_blank"} |
+| 30 min | Stock Reports | [Lab 2: Stock Reports](livelabs/Lab2Analyzer.md){:target="_blank"} |
+| 30 min | Custom Visualizations| [Lab 3: Custom Visualizations](livelabs/Lab3Analyzer.md){:target="_blank"} |
+| 45 min |Advanced Insight Functionalities| [Lab 4: Advanced Insight Functionalities](livelabs/Lab4Analyzer.md){:target="_blank"} |
+| 20 min | Dashboards | [Lab 5: Dashboards](livelabs/Lab5Analyzer.md){:target="_blank"} |
+| 20 min | BONUS LAB: Data Capabilities | [Lab 6: Data Capabilities](livelabs/Lab6Analyzer.md){:target="_blank"} |
 
 ## Lab Video Links
 **Full video links used in the lab instructions.  Video links are also available in the lab exercises.**
