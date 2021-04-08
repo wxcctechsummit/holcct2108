@@ -102,7 +102,7 @@ This intermediate level lab session is intended for Contact Center engineers and
 3. Once this is pasted, click the `Run Code` button at the top
 4. Look on the **Lower Right Side** for the `Chat Bubble` and click that to start a Chat session
 5. Enter your Name, Email and Reason and start the Chat
-6. When BOT responds, you can user "Agent" as key work to escalate the call to the agent
+6. When BOT responds, you can use "Agent" as the key word to escalate the call to the agent
 
 ## Inbound SMS
 1. Text to `+12029824690`
