@@ -2,7 +2,7 @@
 title: "Cisco Live HOLCCT-2108 Lab Guide Library"
 ---
 # Labs Have Been Completed!  Congratulations!
-### Please be sure to complete the `Cisco Live Lab Survey`
+### Please be sure to complete the <a href="https://reg.rainfocus.com/flow/cisco/ciscolive2021/adashsurvey/page/surveydash" target="_blank">Cisco Live Lab Survey</a>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/75790934/113780553-fe71f580-96f4-11eb-85c3-0fa7064794b5.gif">
