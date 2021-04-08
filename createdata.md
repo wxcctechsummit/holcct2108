@@ -74,6 +74,11 @@ All `Omnichannel` contacts will all route to a common queue
 2. If any agents are available, the SMS will get routed.
 3. If no agents are available, you will not get a response
 
-## Once Section Complete
+# Once Section Complete
 
+
+## Back to Main Page
+* [Main Page](livelabs/labinfo.md)
+
+[Back to top](#instructions-for-generating-data)
 
