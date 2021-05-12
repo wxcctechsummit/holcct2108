@@ -56,7 +56,7 @@ We will also be creating two new reports (one for Call and one for agent) to cap
 
 ### Instructions
 1. First `Login to the WxCC portal` using the Portal link above.
-2. Login using your provided student email and password.  Emails for this lab are always **cladmXuser@mailinator.com** where **X** is your student number.
+2. Login an administrator or supervisor account created on this gold tenant
 3. The initial dashboard includes several `Realtime & Historical` reports showing current contact information in the system.
 4. Navigate (shown in the video) through the various dashboard reports and the dropdown allowing you to see current information to familiarize yourself with these stock reports.
 - Video Checkpoints
@@ -92,13 +92,13 @@ We will also be creating two new reports (one for Call and one for agent) to cap
 
 1. Ensure you are logged into the Admin portal
 2. `Open` Analyzer in a new tab to enable you to switch between tasks in Portal and Analyzer
-3. Create a folder for yourself with the name `Team_X` where X is your student number
+3. Create a folder for yourself with the name `Team_X` where X is any unique identifier of your choosing
 > * <a href="https://www.youtube.com/embed/MdKzqrZ-EGA?start=64" target="_blank">Create a Folder</a> 
 4. In Admin Portal, navitate to `Provisioning - Users`
-5. Use the `Search` to find your profile.  You can search for your student number to make it easy. 
+5. Use the `Search` to find your profile.  You can search for your unique number to make it easy. 
 6. Check which User Profile is being used by your user. 
 > * <a href="https://www.youtube.com/embed/MdKzqrZ-EGA?start=103" target="_blank">Find User Profile</a>
-> * NOTE: You will be editing your Supervisor Team Profile.  Search for `Supervisor Team X` where X is your student number.
+> * NOTE: You will be editing your Supervisor Team Profile.  If no supervisor profile exists, follow the lab `Important Lab Note` above to create or ignore
 8. Edit your user profile by navigating to `User Profiles` and select the elipsis menu next to that profile, then click Edit
 9. In your user profile, navigate to `Access Rights`
 10. Set the appropriate access rights to the folders as outlined in the video
