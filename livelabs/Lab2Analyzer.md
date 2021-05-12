@@ -1,15 +1,13 @@
----
-title: "Lab 5: Analyzer Labs 1 to 3"
----
+<p align="center">
+  <img src="https://ayankovs-ccp-s3.s3.eu-west-3.amazonaws.com/CiscoLiveLogo.jpg">
+</p>
 
-# Webex CC Partner Summit Lab5: Analyzer Lab
-
-## Exercises 1.1 to 1.3
+# Cisco Live HOLCCT-2108 Webex Contact Center Reporting - Analyzer Deep Dive
+## Exercises 2.1 and 2.2
 
 # Table of Contents
-1. [Exercise 1.1: Dashboard reports](#exercise-11-login-to-analyzer-and-review-dashboard-reports)
-2. [Exercise 1.2: Analyzer User Interface](#exercise-12-analyzer-user-interface)
-3. [Exercise 1.3: Access Control](#exercise-13-access-control)
+1. [Exercise 2.1: Execute Stock Reports](#exercise-21---execute-stock-reports)
+2. [Exercise 2.2: Create Custom Reports using Stock Reports](#exercise-22---create-custom-report-using-stock-reports)
 
 **Quick Links**
 
@@ -17,98 +15,68 @@ title: "Lab 5: Analyzer Labs 1 to 3"
 * <a href="https://analyzer.wxcc-us1.cisco.com/analyzer/home" target="_blank">Analyzer</a>
 * <a href="https://desktop.wxcc-us1.cisco.com" target="_blank">Agent Desktop</a>
 
-## Important Lab Note
-
-This lab was created with existing Supervisor Profiles as well as Team designations.  The content may make reference to this or direct the user to use these designations to make changes as part of the learning process and lab goals.  
-
-**Example:** 
-- Lab may state to change the Supervisor Profile for your student number.  Supervisor Team 3 for example.  This profile will not exist on your Gold Tenant unless you create the profile.
-
-`Resolution` of these designations can be accomplished with some of these suggestions which should be done prior to going through these labs.
-- Previous videos specified creating `Team1_TS` and if those were done then suppliment the training video with using a team you created earlier.
-- If no Supervisor Profile was previously created and no users were designated as a Supervisor, follow the guideline below
-	- In Control Hub under Users, ensure that at least one of your users is designated as a Supervisor
-	- In WebexCC ensure that a Supervisor Profile is assigned to that user.  You may create your own supervisor profile or use the stock profile in the system.
-	- Alternatively if following the video is desired but no supervisors exist, you may be able to change adminstrator profiles but best case is using a supervisor profile.
-
-### OR
-- Ignore or overlook the specific lab instructions as you see fit.  If this option is chosen, it may mean limited success with some labs that may build on the existence of the team and supervisor profiles
-- Lab videos are still viable learning regardless of whether your GOLD tenant has these configurations
-
-
 ## Lab Objective
 
 This lab is designed to give you basic understanding of Analyzer, user interface features , how execute stock reports and use them to create custom reports per your need. In these videos the `lab goal` is familiarization of the product and terminology. 
 
-We will also be creating two new reports (one for Call and one for agent) to capture relevent information and then will use these reports in a dashboard, while doing this we will learn about capabilities and features you can use to capture the required insights.
+We will also be creating two new reports (one for Call and one for agent) to capture relevent information and then will use these reports in a dashboard, while doing this we will learns about capabilities and features you can use to capture the required insights.
 
-![Banner](https://user-images.githubusercontent.com/81705459/113797766-823cd980-9717-11eb-81a0-a373f426abfb.jpg)
+![Banner](https://user-images.githubusercontent.com/81705459/113798273-7dc4f080-9718-11eb-81a7-fc3798eedb65.jpg)
 
+![Banner](https://user-images.githubusercontent.com/81705459/113798282-80bfe100-9718-11eb-9661-56ae7ccdaa3f.jpg)
 
 ## Pre-requisite
 
-1. Admin or supervisor credential with Analytics access in user profile
-2. Labs will be more successful once agent data has been created using voice, email and chat.
-
-# Exercise 1.1 Login to Analyzer and Review Dashboard Reports
-
-<iframe width="1024" height="576" src="https://youtube.com/embed/Q4kf8dHN8x8?rel=0" title="Exercise 1.1 Login to Analyzer and Review Dashboard Reports" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### Instructions
-1. First `Login to the WxCC portal` using the Portal link above.
-2. Login an administrator or supervisor account created on this gold tenant
-3. The initial dashboard includes several `Realtime & Historical` reports showing current contact information in the system.
-4. Navigate (shown in the video) through the various dashboard reports and the dropdown allowing you to see current information to familiarize yourself with these stock reports.
-- Video Checkpoints
-> * <a href="https://www.youtube.com/embed/Q4kf8dHN8x8?start=56" target="_blank">Drop-down Dashboard Views </a>
-
-5. `Navigate back to the Entry Point Site Level Dashboard` and complete some navigation exercises shown in the video
-6. `Cross-Launch` from dashboard to a specific dashboard **Entry Point Historical Dashboard**
-7. From the Cross-Launched dashboard - `Cross-Launch into Analyzer` to the specific table **Incomming, Short Contacts Entry Point** anf follow the instructions to set filters as desired.
-> * <a href="https://www.youtube.com/embed/Q4kf8dHN8x8?start=192" target="_blank">Analyzer Incomming, Short Contacts Entry Point </a> <br>
-8. This exercise completed
+1. All previous labs completed
+2. Admin or supervisor credential with Analytics access in user profile
+3. Make sure to make few test calls and answered by the agent the day you attempting this lab (to ensure we have some data to analyze)
 
 
-# Exercise 1.2 Analyzer User Interface
-<iframe width="1024" height="576" src="https://www.youtube.com/embed/4pGNHkd87Zs?rel=0" title="Exercise 1.2 Analyzer User Interface" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+# Exercise 2.1 - Execute Stock Reports
 
-### Instructions
-1. `Login to the WxCC Analyzer` using the Analyzer link above
-2. If already in Analyzer click on the `Home` icon to head back to the start screen of Analyzer
-3. `Navigate` around the home screen learning the different features available on this screen
-4. Select the `Visualization` icon to navigate to the Visualization repository
-> * <a href="https://www.youtube.com/embed/4pGNHkd87Zs?start=72" target="_blank">Visualization</a>
-5. Use the `Search` box to find specific or groups of reports
-6. Report information on card <a href="https://www.youtube.com/embed/4pGNHkd87Zs?start=166" target="_blank">Timeslot 2:46</a>
-8. Set preferred view characteristics <a href="https://www.youtube.com/embed/4pGNHkd87Zs?start=220" target="_blank">Timeslot 3:40</a>
+<iframe width="1024" height="576" src="https://youtube.com/embed/aCGxNPmWvPw?rel=0" title="Exercise 2.1 Execute Stock Reports" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Exercise 1.3 Access Control
+**Section Information**
+- Run various stock reports
+- Copy stock reports and edit to suit your reporting needs
+- Exporting reports
 
-<iframe width="1024" height="576" src="https://youtube.com/embed/MdKzqrZ-EGA?rel=0" title="Exercise 1.3 Access Control" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+1. In this lab, start in Analyzer.  If you are not in Analyzer, please navigate to the Analyzer home page
+2. Go to `Home --> Visualization`
+![Banner](https://user-images.githubusercontent.com/81705459/113799254-596a1380-971a-11eb-8337-05ca89a8202a.jpg)
 
-### Instructions
+3. Use the search option and search for `contact` finding the `Contact Details in Queue` report
+4. Run the report by either `double click` or using the elipsis menu and choosing `Run`
+5. Review the report information and click on the `hamburger` or expand option at the top left to see `Data Summary` and `Details` about the report
+6. Click on the `Details` tab for the report and review the various report configuration objects
+7. Click on the `Settings` button and test the various options outlined in the video like hiding columns or copying data elements.  Direct link to this part of the video below.
+> * [Test Stock Report Options](https://www.youtube.com/embed/aCGxNPmWvPw?start=139)
+8. Run the report in the `Tenant Time Zone`
+9. Review the Analyzer URL for the report which shows the `tid` which is the Tenant ID and `rid` which is the report ID.  The tenant ID is unique to every tenant and very useful for troubleshooting or back end change requests.
+10. This concludes the first lab in Exercise Section 2
 
-- Goals for this lab are to set user restrictions and dashboard views
+# Exercise 2.2 - Create Custom Report using Stock Reports 
 
-1. Ensure you are logged into the Admin portal
-2. `Open` Analyzer in a new tab to enable you to switch between tasks in Portal and Analyzer
-3. Create a folder for yourself with the name `Team_X` where X is any unique identifier of your choosing
-> * <a href="https://www.youtube.com/embed/MdKzqrZ-EGA?start=64" target="_blank">Create a Folder</a> 
-4. In Admin Portal, navitate to `Provisioning - Users`
-5. Use the `Search` to find your profile.  You can search for your unique number to make it easy. 
-6. Check which User Profile is being used by your user. 
-> * <a href="https://www.youtube.com/embed/MdKzqrZ-EGA?start=103" target="_blank">Find User Profile</a>
-> * NOTE: You will be editing your Supervisor Team Profile.  If no supervisor profile exists, follow the lab `Important Lab Note` above to create or ignore
-8. Edit your user profile by navigating to `User Profiles` and select the elipsis menu next to that profile, then click Edit
-9. In your user profile, navigate to `Access Rights`
-10. Set the appropriate access rights to the folders as outlined in the video
-11. Set the appropriate Entry Point access for this user profile as well
-12. **Save your work**
-13. Navigate back to the `Portal Dashboard` to view the change on the dashboard
-14. Navigate to Analyzer and refresh if needed then check the `Visualizations` to make sure the folders you do not want to see are gone
-15. Congratulations on finishing `Lab 1 Exercises`.  This exercise was high level to reinforce Analyzer concepts.
+<iframe width="1024" height="576" src="https://youtube.com/embed/f-vsOu32tD4?rel=0" title="Exercise 2.2 Create Custom Report using Stock Reports" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Next Lab is Lab 2: Stock Reports
-> * [Analyzer Lab 2 Link](https://wxcctechsummit.github.io/holcct2108/livelabs/Lab2Analyzer.html)
+**Section Information**
+- Copy a stock report to create a new custom report
+- Create a new report to show the team performance for yesterday
+
+1. Using the search option, search for the word `team` and review the listed reports to find the best report to build from
+2. Find the `Team Details` Report and run it
+3. Review the information captured in the stock report using the elipsis menu to view details about the report.  This will help you determine if this report will work to suit your needs
+4. Create a copy of this report and save it into your `Team Folder`
+5. Following the video instructions, make the recommended changes to the new report.
+> * [Make Changes to Team Details Direct Link](https://www.youtube.com/embed/aCGxNPmWvPw?start=153)
+6. Follow the video guide to make changes as suggested. `Note that in this report you may make any changes you wish since no future labs will use this report`  However, don't take too much time here if falling behind on time.
+7. `Save as` on this report into your personal folder
+8. Change the filter to ensure that no other team data is being shown on your report if needed.
+> * [Add a Filter](https://www.youtube.com/embed/aCGxNPmWvPw?start=259)
+9. Customize the field sizes by reducing the field header names as shown in the video
+10. Congratulations.  This completes Lab 2.  Proceed to Lab 3.
+
+## Next Lab is Lab 3: Custom Visualizations
+> * [Analyzer Lab 3 Link](https://wxcctechsummit.github.io/holcct2108/livelabs/Lab3Analyzer.html)
 
 [Back to top](#cisco-live-holcct-2108-webex-contact-center-reporting---analyzer-deep-dive)
