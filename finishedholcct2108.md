@@ -1,6 +1,12 @@
 ---
 title: "Cisco Live HOLCCT-2108 Lab Guide Library"
 ---
+<script>
+
+window.onload=function(){window.location ="https://webexcc.github.io/"}
+
+</script>
+
 # Labs Have Been Completed!  Congratulations!
 ### Please be sure to complete the <a href="https://reg.rainfocus.com/flow/cisco/ciscolive2021/adashsurvey/page/surveydash" target="_blank">Cisco Live Lab Survey</a>
 
