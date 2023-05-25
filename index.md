@@ -1,6 +1,12 @@
 ---
 title: "Lab Guide Library for Cisco Live HOLCCT-2108"
 ---
+<script>
+
+window.onload=function(){window.location ="https://webexcc.github.io/"}
+
+</script>
+
 <p align="center">
   <img src="https://ayankovs-ccp-s3.s3.eu-west-3.amazonaws.com/CiscoLiveLogo.jpg">
 </p>
